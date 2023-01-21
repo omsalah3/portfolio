@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hi There"
-echo "eman"
+echo "how are you doing?"
 exit 0
