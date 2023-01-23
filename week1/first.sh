@@ -1,4 +1,6 @@
 #!/bin/bash
 echo "Hi there!"
-echo "It's good to see you $1!"
+echo "My name is Eman"
+echo " Im studying cyber security"
+echo $?
 exit 0				
