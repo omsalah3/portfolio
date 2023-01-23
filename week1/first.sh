@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hi There"
-echo "what are you doing?"
+echo "my name is Emaan"
 exit 0
