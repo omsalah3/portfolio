@@ -1,3 +1,8 @@
 #!/bin/bash
+
 echo "Hi there!"
-exit 2
+
+echo "It's good to see you $1!"
+
+exit 0
+					
