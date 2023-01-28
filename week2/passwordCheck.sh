@@ -1,9 +1,11 @@
 #!/bin/bash
 
-read -rsp "Enter Password:" Password
-echo -n "$Password | sha256sum > secret.txt"
+hashFile="secret.txt"
 
-if [ sha256sum -c secret.txt ]; then
+read -rsp "Enter Password:" Password
+result="echo $Password | sha256sum -c $hashFile"
+
+if [ "$result" == "-:ok" ]; then
 
     echo "Access Granted"
     exit 0
