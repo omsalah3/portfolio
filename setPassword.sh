@@ -6,7 +6,7 @@ read folder
 #enter the secret password
 read -rsp "Enter the secret password:" password
 
-# make a folder as the user have chosen
+# make a folder as the user shose
 mkdir $folder
 
 #save the password in the secret.txt in the chosen folder
