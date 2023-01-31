@@ -16,7 +16,7 @@ then
 mkdir "$folderName";;
         2) echo "Copying folder..."
            # code to copy a folder goes here
-          ead -p "type the name of the folder you would like to copy: " folderName
+          read -p "type the name of the folder you would like to copy: " folderName
 
 if [ -d "$folderName" ]; then
 

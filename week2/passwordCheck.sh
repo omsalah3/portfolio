@@ -1,12 +1,13 @@
 #!/bin/bash
-
 hashFile="secret.txt"
+#psvariable=$(cat "$hashFile")
+read -rsp "Enter Password:" password
+result=$(echo $password | sha256sum -c $hashFile)
 
-read -rsp "Enter Password:" Password
-result="echo $Password | sha256sum -c $hashFile"
-
-if [ "$result" == "-:ok" ]; then
-
+#result=$(echo $password | sha256sum )
+echo $result 
+echo $hashFile
+if [ "$result" == "-: OK" ]; then
     echo "Access Granted"
     exit 0
 else

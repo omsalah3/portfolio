@@ -2,8 +2,8 @@
      
        { 
       
-        "configurations": [ 
-         
+        "configurations": [       
+    
             { 
          
                "type": "bashdb", 
@@ -21,6 +21,6 @@
        ] 
          
    } 
-        
+         
         
                        
