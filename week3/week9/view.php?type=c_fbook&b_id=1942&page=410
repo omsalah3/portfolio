@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html class="day" moznomarginboxes mozdisallowselectionprint>
+<head>
+        
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KFD3NX');</script>
+<!-- End Google Tag Manager -->
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, height=device-height" />
+	<title>النحو العربي | حكم المعطوف على خبر (ما) العاملة</title>
+	<link href="https://books.rafed.net/templates/shahosein/css/firstcss.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/style.less" rel="stylesheet/less" type="text/css">
+	<script src="https://books.rafed.net/templates/shahosein/js/less.min.js"></script>
+	<link href="https://books.rafed.net/templates/shahosein/css/cssreset.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/splitmenu.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/template.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/simpletree.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/navtabs.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/controlpanel.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/main.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/styles.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/book.css" rel="stylesheet" type="text/css">
+	<link href="https://books.rafed.net/templates/shahosein/css/print.css" rel="stylesheet" type="text/css">
+	
+	<script type="text/javascript">
+	var script_path = 'https://books.rafed.net/templates/shahosein';
+	var sitepath = 'https://books.rafed.net/';
+	var imgpath = "Books/1942_alnahw-alarabi-01/images/";
+	var refUrl = '';
+	var hasBigCover = false;
+	</script>
+
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/jquery-1.8.2.min.js"></script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/jquery.easing.compatibility.js"></script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/simpletreeview.js"></script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/highlight-3.js"></script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/JsHttpRequest.js"></script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/ajax.js"></script>
+
+	<script type="text/javascript" charset="utf-8">
+	bFp = 1;
+	bSt = 401;			bEd = 463;			lim = 20;
+	book = 1942;
+	var direction = 'rtl';
+	var bookName = 'النحو العربي';
+	var searchVal = '';
+	var bookSize = '';
+	
+	var cp = 0;//Current page
+	var indexArray = new Array();
+	//var startPage = 0;
+	var startPage = 0;
+	var pgstart = 410;
+	var haspgstart = true;
+	
+	var stxt = 'بحث ...';
+	</script>
+	<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/scripts.js"></script>
+	
+	<script type="text/javascript">
+  
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4663337-1']);
+  _gaq.push(['_setDomainName', 'rafed.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+	
+	</script>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFD3NX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<style type="text/css" id="printstyle"></style>
+	<div id="bodywraper">
+		<div id="scrollbox"></div>
+		<div id="topwraper">
+			<div id="mainnavwrap">
+				<div id="mainnav">
+					<div class="mainlevel clearfix" id="splitmenu">
+						<ul>
+							<li class="menu-item0 first-item"><a href="." title="الصفحة الرئيسية" id="menu1" class="menu-item0 first-item"><span class="menu-title">الصفحة الرئيسية</span></a></li>
+							<li class="menu-item1"><a href="view.php?type=c_blist" title="قائمة الكتب" id="menu53" class="menu-item1"><span class="menu-title">قائمة الكتب</span></a></li>
+							<li class="menu-item2 active"><a href="view.php?type=c_fbook" title="مطالعة" id="menu56" class="menu-item2 active"><span class="menu-title">مطالعة</span></a></li>
+							<li class="menu-item3 last-item"><a href="view.php?type=c_search" title="بحث" id="menu54" class="menu-item3"><span class="menu-title">بحث</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="mainnavwrapsep"></div>
+			</div>
+			<div id="leftwraper" style="direction:rtl;">
+				<div id="searchwrap">
+					<div id="search">
+						<div style="float:right; margin: 3px;">
+							<form onsubmit="return false;">
+								<label>
+									<input name="searchText" id="searchText" style="width: 220px;" value="" placeholder="بحث..." type="text">
+								</label>
+							</form>
+						</div>
+						<div style="float:left; margin: 3px;">
+							<input id="searchTextButton" alt="بحث" type="button"  value="&#x1F50E;">
+						</div>
+					</div>
+				</div>
+				
+				<div style="padding:0 10px;">
+										<h2 class="index_bookname">النحو العربي - ج &#1633;</h2>
+					<div class="index_autor">إبراهيم إبراهيم بركات</div>				</div>
+
+				<div id="navtabs">
+					<ul>
+						<li class="index icon active"><a href="#index" title="قائمة الكتاب">&#x1F69A;</a></li>
+						<li class="sep"></li>
+						<li class="info icon"><a href="#info" title="هوية الكتاب">&#x1F6B2;</a></li>
+						<li class="sep"></li>
+						<li class="result icon"><a href="#result" title="نتائج البحث">&#xEC05;</a></li>
+					</ul>
+					<div class="loading">
+						<div class="b1"></div><div class="b2"></div><div class="b3"></div>
+						<span style="float:left; padding: 0 14px 0 0;"><span id="loadingText">100</span>%</span>
+					</div>
+				</div>
+
+				<div id="navigation">
+					<div style="display: block;" id="index">							
+												<div style="text-align:center;padding-right:5px;">
+							<select id="relbooks" onchange="$('#srWait').show('slow');$('#searchNotice').hide('slow');window.location='view.php?type=c_fbook&b_id='+ this.value;" style="padding:2px;">
+															<option value="1942" selected="selected">الجزء &#1633;</option>
+															<option value="1943" >الجزء &#1634;</option>
+															<option value="1944" >الجزء &#1635;</option>
+															<option value="1946" >الجزء &#1636;</option>
+															<option value="1948" >الجزء &#1637;</option>
+														</select>
+						</div>
+												
+												
+						<ul class="treeview">
+																					<li><a href="?type=c_fbook&b_id=1942&page=5" id="idx_0"  rel="5" title="مقدمة - 5">مقدمة</a></li>
+																												<li><h3>مدخل فى بناء الجملة العربية نظرة النحاة العرب إلى أقسام الجملة</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=13" id="idx_2"  rel="13" title="بحسب الصدر - 13">بحسب الصدر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=16" id="idx_3"  rel="16" title="بحسب الخبر - 16">بحسب الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=16" id="idx_4"  rel="16" title="بحسب الأداء النحوى - 16">بحسب الأداء النحوى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=17" id="idx_5"  rel="17" title="بحسب اتجاه المعنى - 17">بحسب اتجاه المعنى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=18" id="idx_6"  rel="18" title="بحسب اتجاه الإخبار - 18">بحسب اتجاه الإخبار</a></li>
+																												<li><h3>الجملة الاسمية</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=21" id="idx_8"  rel="21" title="المصطلح - 21">المصطلح</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=22" id="idx_9"  rel="22" title="الاسمية الإخبارية - 22">الاسمية الإخبارية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=22" id="idx_10"  rel="22" title="الاسمية الاستخبارية - 22">الاسمية الاستخبارية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=22" id="idx_11"  rel="22" title="الاسمية الإنشائية - 22">الاسمية الإنشائية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=24" id="idx_12"  rel="24" title="ركنا الجملة الاسمية - 24">ركنا الجملة الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=24" id="idx_13"  rel="24" title="المبتدأ - 24">المبتدأ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=24" id="idx_14"  rel="24" title="شروطه - 24">شروطه</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=40" id="idx_15"  rel="40" title="إعرابهما والعامل - 40">إعرابهما والعامل</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=43" id="idx_16"  rel="43" title="الابتداء بالنكرة - 43">الابتداء بالنكرة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=63" id="idx_17"  rel="63" title="الخبر - 63">الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=64" id="idx_18"  rel="64" title="صور الخبر - 64">صور الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=65" id="idx_19"  rel="65" title="أنواع الخبر معنويا - 65">أنواع الخبر معنويا</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=68" id="idx_20"  rel="68" title="مبنى الخبر - 68">مبنى الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=78" id="idx_21"  rel="78" title="قضية العائد - 78">قضية العائد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=80" id="idx_22"  rel="80" title="جواز حذف العائد - 80">جواز حذف العائد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=83" id="idx_23"  rel="83" title="ضعف حذف العائد - 83">ضعف حذف العائد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=83" id="idx_24"  rel="83" title="ما يغنى عن العائد - 83">ما يغنى عن العائد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=89" id="idx_25"  rel="89" title="الخبر شبه الجملة - 89">الخبر شبه الجملة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=92" id="idx_26"  rel="92" title="الإخبار بشبه الجملة عن الاسم الجامد - 92">الإخبار بشبه الجملة عن الاسم الجامد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=95" id="idx_27"  rel="95" title="تعدد الخبر - 95">تعدد الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=99" id="idx_28"  rel="99" title="دخول الفاء على الخبر - 99">دخول الفاء على الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=102" id="idx_29"  rel="102" title="اقتران الخبر بالواو - 102">اقتران الخبر بالواو</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=106" id="idx_30"  rel="106" title="المطابقة بين المبتدإ والخبر - 106">المطابقة بين المبتدإ والخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=111" id="idx_31"  rel="111" title="اجتماع المعرفتين - 111">اجتماع المعرفتين</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=114" id="idx_32"  rel="114" title="الضمير بين المعرفتين - 114">الضمير بين المعرفتين</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=118" id="idx_33"  rel="118" title="الرتبة بين المبتدإ والخبر - 118">الرتبة بين المبتدإ والخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=131" id="idx_34"  rel="131" title="قضية الحذف فى الجملة الاسمية - 131">قضية الحذف فى الجملة الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=131" id="idx_35"  rel="131" title="جواز حذف المبتدإ - 131">جواز حذف المبتدإ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=135" id="idx_36"  rel="135" title="وجوب حذف المبتدإ - 135">وجوب حذف المبتدإ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=139" id="idx_37"  rel="139" title="وجوب حذف الخبر - 139">وجوب حذف الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=144" id="idx_38"  rel="144" title="حذف المبتدإ والخبر معا - 144">حذف المبتدإ والخبر معا</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=145" id="idx_39"  rel="145" title="ما يسد مسدّ المبتدإ والخبر - 145">ما يسد مسدّ المبتدإ والخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=153" id="idx_40"  rel="153" title="أمثلة أخرى للجملة الاسمية - 153">أمثلة أخرى للجملة الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=153" id="idx_41"  rel="153" title="أما فالمبتدإ فالفاء فالخبر - 153">أما فالمبتدإ فالفاء فالخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=154" id="idx_42"  rel="154" title="حسب فى الجملة الاسمية - 154">حسب فى الجملة الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=156" id="idx_43"  rel="156" title="(سواء) أحد ركنى الاسمية - 156">(سواء) أحد ركنى الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=158" id="idx_44"  rel="158" title="زيادة حرف الجر فى أحد الركنين - 158">زيادة حرف الجر فى أحد الركنين</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=159" id="idx_45"  rel="159" title="المبتدأ اسم استفهام أو شرط أو موصول - 159">المبتدأ اسم استفهام أو شرط أو موصول</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=161" id="idx_46"  rel="161" title="بعد إذا الفجائية - 161">بعد إذا الفجائية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=161" id="idx_47"  rel="161" title="لام الابتداء فى صدر الجملة الاسمية - 161">لام الابتداء فى صدر الجملة الاسمية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=164" id="idx_48"  rel="164" title="أمثلة للجملة الاسمية - 164">أمثلة للجملة الاسمية</a></li>
+																												<li><h3>الجملة الاسمية المنسوخة</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=169" id="idx_50"  rel="169" title="ماهيتها والأحرف الناسخة - 169">ماهيتها والأحرف الناسخة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=169" id="idx_51"  rel="169" title="أثرها الإعرابى - 169">أثرها الإعرابى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=172" id="idx_52"  rel="172" title="لم أعملت الرفع والنصب؟ - 172">لم أعملت الرفع والنصب؟</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=172" id="idx_53"  rel="172" title="الأحرف الناسخة - 172">الأحرف الناسخة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=173" id="idx_54"  rel="173" title="إنّ - 173">إنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=174" id="idx_55"  rel="174" title="أنّ - 174">أنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=176" id="idx_56"  rel="176" title="أصلها البنيوى - 176">أصلها البنيوى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=176" id="idx_57"  rel="176" title="كأنّ - 176">كأنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=177" id="idx_58"  rel="177" title="لكنّ - 177">لكنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=178" id="idx_59"  rel="178" title="أصل أن البنيوى - 178">أصل أن البنيوى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=179" id="idx_60"  rel="179" title="لعلّ - 179">لعلّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=181" id="idx_61"  rel="181" title="ليت - 181">ليت</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=184" id="idx_62"  rel="184" title="همزة إنّ - 184">همزة إنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=185" id="idx_63"  rel="185" title="مواضع وجوب كسر الهمزة - 185">مواضع وجوب كسر الهمزة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=201" id="idx_64"  rel="201" title="مواضع وجوب فتح الهمزة - 201">مواضع وجوب فتح الهمزة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=212" id="idx_65"  rel="212" title="تأويل (أن) مع معموليها بمصدر - 212">تأويل (أن) مع معموليها بمصدر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=213" id="idx_66"  rel="213" title="جواز فتح همزة (إن) وكسرها - 213">جواز فتح همزة (إن) وكسرها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=222" id="idx_67"  rel="222" title="مؤولات بين الفتح والكسر - 222">مؤولات بين الفتح والكسر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=224" id="idx_68"  rel="224" title="إلحاق ما بالأحرف الناسخة - 224">إلحاق ما بالأحرف الناسخة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=227" id="idx_69"  rel="227" title="العطف على اسمها - 227">العطف على اسمها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=228" id="idx_70"  rel="228" title="هل يجوز العطف على اسمها قبل إكمال الخبر؟ - 228">هل يجوز العطف على اسمها قبل إكمال الخبر؟</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=228" id="idx_71"  rel="228" title="القول فى : «إن الذين آمنوا والذين هادوا ...» - 228">القول فى : «إن الذين آمنوا والذين هادوا ...»</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=235" id="idx_72"  rel="235" title="قضية الرتبة - 235">قضية الرتبة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=240" id="idx_73"  rel="240" title="قضية الحذف - 240">قضية الحذف</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=242" id="idx_74"  rel="242" title="اتصال الأحرف الناسخة بضمير المتكلم - 242">اتصال الأحرف الناسخة بضمير المتكلم</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=244" id="idx_75"  rel="244" title="تخفيف النون من ذوات النون : إن - 244">تخفيف النون من ذوات النون : إن</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=247" id="idx_76"  rel="247" title="اللام الفارقة - 247">اللام الفارقة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=249" id="idx_77"  rel="249" title="أن - 249">أن</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=259" id="idx_78"  rel="259" title="كأنّ - 259">كأنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=262" id="idx_79"  rel="262" title="لكنّ - 262">لكنّ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=263" id="idx_80"  rel="263" title="لام الابتداء وإن - 263">لام الابتداء وإن</a></li>
+																												<li><h3>(لا) النافية للجنس</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=270" id="idx_82"  rel="270" title="مفهوم نفى الجنس - 270">مفهوم نفى الجنس</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=272" id="idx_83"  rel="272" title="لما ذا تعامل معاملة (إن)؟ - 272">لما ذا تعامل معاملة (إن)؟</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=272" id="idx_84"  rel="272" title="شروط عملها عمل (إن) - 272">شروط عملها عمل (إن)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=274" id="idx_85"  rel="274" title="إهمالها - 274">إهمالها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=276" id="idx_86"  rel="276" title="حكم اسمها إعرابيا - 276">حكم اسمها إعرابيا</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=280" id="idx_87"  rel="280" title="نعت النكرة المبنية - 280">نعت النكرة المبنية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=281" id="idx_88"  rel="281" title="العطف على اسم (لا) بدون تكرارها - 281">العطف على اسم (لا) بدون تكرارها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=282" id="idx_89"  rel="282" title="تكرار (لا) مع اسمها النكرة بالعطف - 282">تكرار (لا) مع اسمها النكرة بالعطف</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=288" id="idx_90"  rel="288" title="تنبيهات - 288">تنبيهات</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=288" id="idx_91"  rel="288" title="الحذف مع (لا) النافية للجنس - 288">الحذف مع (لا) النافية للجنس</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=289" id="idx_92"  rel="289" title="دخول همزة الاستفهام على (لا) - 289">دخول همزة الاستفهام على (لا)</a></li>
+																												<li><h3>الجملة الفعلية المحولة</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=293" id="idx_94"  rel="293" title="حدّها - 293">حدّها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=295" id="idx_95"  rel="295" title="أفعالها - 295">أفعالها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=295" id="idx_96"  rel="295" title="كان - 295">كان</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=299" id="idx_97"  rel="299" title="أصبح - 299">أصبح</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=300" id="idx_98"  rel="300" title="أضحى - 300">أضحى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=301" id="idx_99"  rel="301" title="أمسى - 301">أمسى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=302" id="idx_100"  rel="302" title="ظل - 302">ظل</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=303" id="idx_101"  rel="303" title="بات - 303">بات</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=304" id="idx_102"  rel="304" title="صار - 304">صار</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=305" id="idx_103"  rel="305" title="ليس - 305">ليس</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=310" id="idx_104"  rel="310" title="ما زال - 310">ما زال</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=311" id="idx_105"  rel="311" title="ما برح - 311">ما برح</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=311" id="idx_106"  rel="311" title="ما فتئ - 311">ما فتئ</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=312" id="idx_107"  rel="312" title="ما انفك - 312">ما انفك</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=318" id="idx_108"  rel="318" title="ما دام - 318">ما دام</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=320" id="idx_109"  rel="320" title="قضية التمام والنقصان - 320">قضية التمام والنقصان</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=322" id="idx_110"  rel="322" title="تصرفها - 322">تصرفها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=326" id="idx_111"  rel="326" title="حدثيتها - 326">حدثيتها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=329" id="idx_112"  rel="329" title="أثرها النحوى - 329">أثرها النحوى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=340" id="idx_113"  rel="340" title="جواز رفع معمولى (كان) - 340">جواز رفع معمولى (كان)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=342" id="idx_114"  rel="342" title="العامل فى معموليها - 342">العامل فى معموليها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=344" id="idx_115"  rel="344" title="مبنى خبرها - 344">مبنى خبرها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=350" id="idx_116"  rel="350" title="تعدد خبرها - 350">تعدد خبرها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=352" id="idx_117"  rel="352" title="دخول اللام على خبر (كان) - 352">دخول اللام على خبر (كان)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=353" id="idx_118"  rel="353" title="زيادة الباء فى خبر (ليس) - 353">زيادة الباء فى خبر (ليس)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=355" id="idx_119"  rel="355" title="ركناها بين التعريف والتنكير - 355">ركناها بين التعريف والتنكير</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=358" id="idx_120"  rel="358" title="ضمير الفصل فيها - 358">ضمير الفصل فيها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=361" id="idx_121"  rel="361" title="قضية الرتبة - 361">قضية الرتبة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=368" id="idx_122"  rel="368" title="تقدم الخبر عليها - 368">تقدم الخبر عليها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=376" id="idx_123"  rel="376" title="جواز حذف آخر (كان) - 376">جواز حذف آخر (كان)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=379" id="idx_124"  rel="379" title="حذف (كان) - 379">حذف (كان)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=380" id="idx_125"  rel="380" title="جواز حذف (كان) مع اسمها - 380">جواز حذف (كان) مع اسمها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=385" id="idx_126"  rel="385" title="حذف (كان) مع اسمها وخبرها - 385">حذف (كان) مع اسمها وخبرها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=385" id="idx_127"  rel="385" title="(كان) تامة - 385">(كان) تامة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=387" id="idx_128"  rel="387" title="(كان) زائدة - 387">(كان) زائدة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=392" id="idx_129"  rel="392" title="(كان) بمعنى (صار) - 392">(كان) بمعنى (صار)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=393" id="idx_130"  rel="393" title="مرادفتها (لم يزل) - 393">مرادفتها (لم يزل)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=394" id="idx_131"  rel="394" title="أمثلة لـ (كان) وأخواتها - 394">أمثلة لـ (كان) وأخواتها</a></li>
+																												<li><h3>الحروف المشبهات بـ (ليس)</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=399" id="idx_133"  rel="399" title="ماهيتها - 399">ماهيتها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=399" id="idx_134"  rel="399" title="ما - 399">ما</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=408" id="idx_135"  rel="408" title="زيادة الباء فى خبر ما - 408">زيادة الباء فى خبر ما</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=410" id="idx_136"  rel="410" title="حكم المعطوف على خبر (ما) العاملة - 410">حكم المعطوف على خبر (ما) العاملة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=411" id="idx_137"  rel="411" title="المعطوف على خبر (ما) المزيد فيه الباء - 411">المعطوف على خبر (ما) المزيد فيه الباء</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=412" id="idx_138"  rel="412" title="لا - 412">لا</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=412" id="idx_139"  rel="412" title="شروط إعمالها عند الحجازيين - 412">شروط إعمالها عند الحجازيين</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=416" id="idx_140"  rel="416" title="زيادة الباء فى خبر (لا) - 416">زيادة الباء فى خبر (لا)</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=417" id="idx_141"  rel="417" title="لات - 417">لات</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=417" id="idx_142"  rel="417" title="شروط إعمالها - 417">شروط إعمالها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=421" id="idx_143"  rel="421" title="إن - 421">إن</a></li>
+																												<li><h3>أفعال المقاربة والرجاء والشروع</h3></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=424" id="idx_145"  rel="424" title="ماهيتها - 424">ماهيتها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=424" id="idx_146"  rel="424" title="ما يفيد المقاربة - 424">ما يفيد المقاربة</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=425" id="idx_147"  rel="425" title="ما يفيد الرجاء - 425">ما يفيد الرجاء</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=426" id="idx_148"  rel="426" title="ما يفيد الشروع - 426">ما يفيد الشروع</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=428" id="idx_149"  rel="428" title="أسماؤها - 428">أسماؤها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=428" id="idx_150"  rel="428" title="عملها وشروط خبرها - 428">عملها وشروط خبرها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=444" id="idx_151"  rel="444" title="تصرفها - 444">تصرفها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=447" id="idx_152"  rel="447" title="تمامها ونقصانها - 447">تمامها ونقصانها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=448" id="idx_153"  rel="448" title="تأويلان نحويان - 448">تأويلان نحويان</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=452" id="idx_154"  rel="452" title="أفعال ملحقة بها - 452">أفعال ملحقة بها</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=452" id="idx_155"  rel="452" title="دخول الباء على أن - 452">دخول الباء على أن</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=452" id="idx_156"  rel="452" title="السين موضع أن - 452">السين موضع أن</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=453" id="idx_157"  rel="453" title="فى إعراب الخبر - 453">فى إعراب الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=453" id="idx_158"  rel="453" title="فى الخبر المسبوق بـ (أن) المصدرية - 453">فى الخبر المسبوق بـ (أن) المصدرية</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=453" id="idx_159"  rel="453" title="رتبة الخبر - 453">رتبة الخبر</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=454" id="idx_160"  rel="454" title="نفى كاد - 454">نفى كاد</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=454" id="idx_161"  rel="454" title="سين عسى - 454">سين عسى</a></li>
+																												<li><a href="?type=c_fbook&b_id=1942&page=455" id="idx_162"  rel="455" title="اتصال الضمير بـ (عسى) - 455">اتصال الضمير بـ (عسى)</a></li>
+																				</ul>
+					</div>
+
+					<div style="display: none;" id="info">
+						<div class="cover">
+							<div class="books">
+								<div id="book1" class="book3d small rtl">
+									<img src="Books/1942_alnahw-alarabi-01/images/cover.jpg" />
+								</div>
+							</div>
+						</div>
+						<div class="bookinfo">
+						المؤلف: إبراهيم إبراهيم بركات<br>																		الناشر: دار النشر للجامعات<br>												الطبعة: &#1633;<br>
+						الموضوع : <a href="view.php?type=c_blist&cid=24">اللغة والبلاغة</a><br>
+						تاريخ النشر : &#1633;&#1636;&#1634;&#1640; هـ.ق<br>
+						ISBN (ردمك): <div style="direction:ltr;float:left;">977-316-204-4</div><br>												الصفحات: &#1636;&#1638;&#1635;<br>
+						
+													
+							<ul class="links">
+																<li class="fileicon doc"><a href="print.php?type=d_book&book=1942&format=doc" title="تحميل Word">&nbsp;</a></li>																							</ul>
+						</div>
+					</div>
+					<div style="display: none;" id="result">
+						<div id="srWait"><div class="magnifier"><div></div></div><div class="paper"></div></div>
+						<span id="searchNotice" class="message">إبحث عن كلمة حتى ترى النتيجة هنا</span>
+					</div>
+				</div>
+			</div>
+			<div id="navwrap">
+				<div id="close_left" class="leftside mainlevel clearfix icon"><a href="javascript:void(0)"  title="إغلاق"></a></div>
+				<div id="tools" class="leftside mainlevel clearfix">
+					<ul>
+						<li class="extra icon" rel="search"><a href="javascript:void(0)"  title="بحث">&#x1F50E;</a></li>
+						<li class="extra icon" rel="info"><a href="javascript:void(0)"  title="هوية الكتاب">&#x1F6B2;</a></li>
+						<li class="extra icon" rel="index"><a href="javascript:void(0)"  title="قائمة الكتاب">&#x1F69A;</a></li>
+						<li class="icon">
+							<a href="javascript:void(0)" class="popoverbtn" rel="print" title="الطباعة">&#x2399;</a>
+							<div class="popover print">
+								<div>
+									<div class="radio">
+										<form onsubmit="print();return false;">
+											<input id="print_cur" type="radio" name="print" value="print_cur" checked>
+											<label for="print_cur">الصفحة الحالية&nbsp;(<span id="curpage"></span>)</label>
+											
+											<input id="print_cstm" type="radio" name="print" value="print_cstm">
+											<label for="print_cstm">
+												من الصفحة 
+												<input id="from" class="inputbox" size="4" maxlength="4" value="1" type="text">
+												الى
+												<input id="to" class="inputbox" size="4" maxlength="4" value="462" type="text">
+											</label>
+											
+											<input id="print_all" type="radio" name="print" value="print_all">
+											<label for="print_all">جميع الصفحات</label>
+											<hr>
+											<div class="pagesource">
+												<span>حجم الورقة</span>
+												<div class="pagesize A5" alt="A5"><span><a></a></span><a>A5</a></div>
+												<div class="pagesize B5" alt="B5"><span><a></a></span><a>B5</a></div>
+												<div class="pagesize A4 active" alt="A4"><span class=""><a></a></span><a>A4</a></div>
+												<div class="pagesize letter" alt="letter"><span><a></a></span><a>Letter</a></div>
+											</div>
+											<section class="submit">
+												<button onclick="return false;">الطباعة</button>
+											</section>
+										</form>
+									</div>
+								</div>
+								<div class="arrow"></div>
+							</div>
+						</li>
+						
+						<li class="toolsFileIcon doc"><a href="print.php?type=d_book&book=1942&format=doc" title="تحميل Word">!&nbsp;&nbsp;</a></li>																							</ul>
+					<noscript>JavaScript غيرنشط. لهذا لا يمكنك استخدامجميع خدمات الموقع.</noscript>
+				</div>
+				<div id="tools" class="rightside mainlevel clearfix">
+					<ul>
+						<li class="icon"><a href="javascript:void(0)" id="full" title="الصفحة الكاملة">&#xEE04;</a></li>
+						<li class="icon"><a href="javascript:void(0)" id="out" title="التصغير">&#x1F527;</a></li>
+						<li class="icon"><a href="javascript:void(0)" id="in" title="التكبير">&#x1F526;</a></li>
+						<li class="icon">
+							<a href="javascript:void(0)" class="popoverbtn" rel="viewtools" title="الادوات">&#x1F440;</a>
+							<div class="popover viewtools">
+								<div>
+									<div class="fonttype">
+										<span class="defaultFont icon active">قالَ أميرُ المؤمِنينَ <span class="rfdAlaem">عليه‌السلام</span>: أَلْكُتُبُ بَساتِينُ الْعُلَماءِ</span>
+										<span class="karimFont icon"><img src="https://books.rafed.net/templates/shahosein/images/karimfont-min.png" height="43" width="300"></span>
+										<span class="amiriFont icon"><img src="https://books.rafed.net/templates/shahosein/images/amirifont-min.png" height="43" width="300"></span>
+									</div>
+									<div class="viewmode">
+										<a href="#" class="day active"></a>
+										<a href="#" class="sepia"></a>
+										<a href="#" class="gray"></a>
+										<a href="#" class="night"></a>
+									</div>
+								</div>
+								<div class="arrow"></div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div id="pagenum">
+					<form>
+						<label>
+							<input id="pgnum" class="inputbox" size="4" maxlength="4" value="1" type="text">
+						</label>
+					</form>
+					<span>/ &#1636;&#1638;&#1635;</span>
+				</div>
+				
+				<div id="pos"></div>
+			</div>
+
+			</div>
+		<div id="lrwraper">
+			<div id="rightwraper">
+				<div id="content">
+					<div id="content1" class="">
+						<div id="pg0" class="pbookinfo">
+							<div style="width: 99%;">
+								<div style="display: inline-block;width: 100%;">
+									<div id="book1" class="book3d rtl">
+																				<a href="images/default-cover-big.jpg" target="_blank"><img src="Books/1942_alnahw-alarabi-01/images/cover.jpg"></a>
+																			</div>
+									
+									<h1 class="col-md-8">النحو العربي - ج &#1633;</h1>
+								</div>
+								
+								<span>المؤلف: <h3 style="display: inline;">إبراهيم إبراهيم بركات</h3></span><br>																								<span>الموضوع : <a href="view.php?type=c_blist&cid=24">اللغة والبلاغة</a></span><br>
+								<span>الناشر: <b>دار النشر للجامعات</b></span><br>																الطبعة: &#1633;<br>
+								<span style="font-size: 80%;">ISBN: <b>977-316-204-4</b></span><br>																الصفحات: &#1636;&#1638;&#1635;<br>
+																
+																
+																<div style="text-align:center;padding-right:5px;">
+																	<span class="rbooks">
+																												الجزء &#1633;
+																		</span>
+																	<span class="rbooks">
+																												<a href="view.php?type=c_fbook&b_id=1943">الجزء &#1634;</a>
+																		</span>
+																	<span class="rbooks">
+																												<a href="view.php?type=c_fbook&b_id=1944">الجزء &#1635;</a>
+																		</span>
+																	<span class="rbooks">
+																												<a href="view.php?type=c_fbook&b_id=1946">الجزء &#1636;</a>
+																		</span>
+																	<span class="rbooks">
+																												<a href="view.php?type=c_fbook&b_id=1948">الجزء &#1637;</a>
+																		</span>
+																</div>
+															</div>
+							<div style="display: inline-block;width: 100%;"></div>
+							
+						</div>
+						<!--start book pages-->
+												<div class="page  spf" id="pg401">
+							<div class="pgcontent">
+    <p>ومنه قولهتعالى : <span class=rfdAlaem>(</span><span class=rfdAie>ما هُنَّأُمَّهاتِهِمْ إِنْ أُمَّهاتُهُمْ إِلَّا اللَّائِي وَلَدْنَهُمْ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(١)</span> [المجادلة : ٢]. (أمهات) خبر (ما) منصوب ، وعلامة نصبه الكسرة لأنه مجموعبالألف والتاء المزيدتين. واسم (ما) ضمير الغائبات البارز (هن) فى محل رفع.</p><p>ولا تعمل (ما)لدى الحجازيين عملا مطلقا ، لكن لإعمالها شروط :</p><p class=rfdBold1>أ ـ ألا يتقدم الخبر على الاسم <span class=rfdFootnotenum>(٢)</span> :</p><p>وإن كان ظرفاأو جارّا ومجرورا على الأصح <span class=rfdFootnotenum>(٣)</span> ؛ ولهذا أهملت فى قولهم : ما مسىء من أعتب ، لتقدمالخبر <span class=rfdFootnotenum>(٤)</span>.</p><p>ومما أهمل فيه (ما)الحجازية لتقدم الخبر قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>وما خذّلقومى فأخضع للعدا<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>ولكن إذاأدعوهم فهم همو <span class=rfdFootnotenum>(٥)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>والأصل : ماقومى خذّل ، حيث (خذل) الخبر ، و (قوم) المبتدأ ، وكلاهما مرفوع ، فأهملت (ما) لأنالخبر تقدم على المبتدإ.</p><p>وقول الآخر :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>وما حسن أنيمدح المرء نفسه <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>ولكنّ أخلاقاتذمّ وتحمد <span class=rfdFootnotenum>(٦)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) (إن) حرف نفىمبنى ، لا محلّ له من الإعراب. (أمهاتهم) الثانية مبتدأ مرفوع ، وعلامة رفعه الضمة، وضمير المخاطبين مبنى فى محل جر بالإضافة. (إلا) حرف استثناء يفيد الحصر والقصرمبنى لا محل له من الإعراب. (اللائى) اسم موصول مبنى فى محل رفع ، خبر المبتدإ. (ولدنهم)فعل ماض مبنى على السكون ، ونون النسوة ضمير مبنى فى محل رفع ، فاعل ، وضميرالغائبين مبنى فى محل نصب ، مفعول به. والجملة الفعلية صلة الموصول لا محل لها منالإعراب.</p><p class=rfdFootnote0><span>(٢) ذلك خلافا للفراء.ينظر : المقتضب ٤ ـ ١٩٠ / شرح التصريح ١ ـ ١٩٨.</span></p><p class=rfdFootnote0>(٣) ذلك خلافا لابنعصفور. المقرب ١ ـ ١٠٢.</p><p class=rfdFootnote0>(٤) المقتضب ٤ ـ ١٩٠.</p><p class=rfdFootnote0>(٥) شرح التصريح ١ ـ ١٩٨.</p><p class=rfdFootnote0><span>(٦) المساعد ١ ـ ٢٧٧/ الدرر ١ ـ ١٠٣.</span></p><p class=rfdFootnote>(ما) حرف نفى مبنى لا محل له من الإعراب.(حسن) خبر مقدم مرفوع ، وعلامة رفعه الضمة. (أن) حرف مصدرى ونصب مبنى ، لا محل لهمن الإعراب. (يمدح) فعل مضارع منصوب ، وعلامة نصبه الفتحة. (المرء) فاعل مرفوع ،وعلامة رفعه الضمة. والمصدر المؤول فى محل رفع ، مبتدأ مؤخر. ويجوز أن تجعل المصدر</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1633;</div>
+						</div>
+												<div class="page  " id="pg402">
+							<div class="pgcontent">
+    <p>وفيه تقدمالخبر (حسن) على المبتدإ المؤخر المصدر المؤول (أن يمدح المرء) ، فأهملت (ما)النافية.</p><p>فأما قولالفرزدق :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>فأصبحوا قدأعاد الله نعمتهم <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>إذ همو قريشوإذ ما مثلهم بشر <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>بنصب (مثل) فإنسيبويه يذكر أن «هذا لا يكاد يعرف» <span class=rfdFootnotenum>(٢)</span>.</p><p>كما أنه يعلللذلك بأن الفرزدق قد غلط ، حيث هو تميمى ، فأراد أن ينطق بلغة أهل الحجاز فغلط ،فهو شاذ.</p><p>وقيل : (بشر)خبر ، و (مثل) مبتدأ ، لكنه فتح لأنه مبنىّ على الفتح ، لأنه اسم مبهم أضيف إلىمبنى ، فاكتسب البناء منه ، وبذلك فإن (ما) غير عاملة.</p><p>ويوجه على أنخبر (ما) محذوف ، والتقدير : إذ ما فى الدنيا بشر ، أما (مثلهم) فهى حال من بشر.</p><p class=rfdBold1>ب ـ ألا يتقدم معمول خبرها على اسمها :</p><p>للنحاة قاعدةمطلقة أنه لا يتقدم معمول الخبر فى موضع لا يجوز فيه تقدم الخبر ، فلما كان خبر (ما)الحجازية العاملة لا يتقدم على اسمها كان معمول خبرها لا يتقدم.</p><p>لذلك فإن (ما)لم تعمل فى قول مزاحم بن الحارث العقيلى :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>وقالواتعرّفها المنازل من منى <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>وما كلّ منوافى منى أنا عارف <span class=rfdFootnotenum>(٣)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0>خبرا وحسنا مبتدأ ، فالمصدر المؤول فاعل لحسن سد مسد المبتدإ المؤخر أوالخبر. (نفسه) مفعول به منصوب ، وعلامة نصبه الفتحة ، وهاء الغائب ضمير مبنى فىمحل جر بالإضافة. (الواو) حرف عطف مبنى لا محل له. (لكن) حرف استدراك مبنى لا محلله من الإعراب. (أخلاقا) اسم لكن منصوب وعلامة نصبه الفتحة. (تذم) فعل مضارع مرفوع، وعلامة رفعه الضمة مبنى للمجهول. ونائب الفاعل ضمير مستتر تقديره : هى. والجملةالفعلية فى محل نصب ، نعت لأخلاق. وخبر لكن محذوف تقديره : موجودة ، كائنة. (وتحمد)عاطف مبنى ، والجملة الفعلية فى محل نصب بالعطف على جملة تذم.</p><p class=rfdFootnote0><span>(١) ينظر : الكتاب ١ـ ٦٠ / المقتضب ٤ ـ ١٩١ / الجنى الدانى ١٨٩ /. الخزانة ٤ ـ ١٣٣.</span></p><p class=rfdFootnote0>(٢) الكتاب ٢ ـ ٦٠.</p><p class=rfdFootnote0><span>(٣) الكتاب ١ ـ ٧٢ /شرح الشذور رقم ٩١ / الأشمونى ١ ـ ٢٤٩ / أوضح المسالك رقم ٢١٥.</span></p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1634;</div>
+						</div>
+												<div class="page  " id="pg403">
+							<div class="pgcontent">
+    <p>حيث (كل) مفعولبه لـ (عارف) ، و (أنا) اسم (ما) الحجازية ، و (عارف) خبر ، فتقدم معمول خبرها علىاسمها ، فأهملت نحويا ؛ ولهذا فإن الضمير (أنا) فى محلّ رفع ، مبتدأ ، و (عارف)خبر المبتدإ.</p><p>ويروى برفع (كل)، ويوجه على وجهين :</p><p>ـ أن يكون (كل)اسم (ما) ، والجملة الاسمية (أنا عارف) فى محلّ نصب ، خبر (ما) الحجازية العاملة.</p><p>ـ أو ما سبق معكون (ما) مهملة ، فيكون (كل) مبتدأ مرفوعا ، والجملة الاسمية (أنا عارف) فى محلرفع ، خبر المبتدإ.</p><p>ويقدر فى (عارف)فى التوجيهين السابقين ضمير محذوف رابط بين الصلة وموصولها ، والتقدير : أناعارفه.</p><p>ـ أمّا إذا كانمعمول خبر (ما) الحجازية المتقدم على اسمها شبه جملة جاز إعمالها <span class=rfdFootnotenum>(١)</span> ، كما ورد فى قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>بأهبة حزم لذوإن كنت آمنا<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>فما كلّ حينمن توالى مواليا <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0>(قالوا) فعل ماض مبنىعلى الضم ، وواو الجماعة ضمير مبنى فى محل رفع ، فاعل. (تعرفها) تعرف : فعل أمرمبنى على السكون ، وفاعله ضمير مستتر تقديره : أنت. وضمير الغائبة مبنى فى محل نصب، مفعول به. (المنازل) منصوب على نزع الخافض ، وعلامة نصبه الفتحة. وتقديره :بالمنازل ، أو : فى المنازل. (من منى) حرف جر مبنى ، ومجرور وعلامة جره الفتحةالمقدرة نيابة عن الكسرة ، وشبه الجملة فى محل نصب ، حال من المنازل. (وما) الواوحرف استئناف مبنى ، لا محل له من الإعراب. ما : حرف نفى مبنى لا محل له من الإعراب.(كل) مفعول به لعارف مقدم منصوب ، وعلامة نصبه الفتحة. وهو مضاف. و (من) اسم موصولمبنى على السكون فى محل جر بالإضافة. (وافى) فعل ماض مبنى على الفتح المقدر.وفاعله ضمير مستتر تقديره : هو. والجملة الفعلية صلة الموصول لا محل لها منالإعراب. (منى) مفعول به منصوب ، وعلامة نصبه الفتحة المقدرة. (أنا) ضمير مبنى فىمحل رفع ، مبتدأ. (عارف) خبر المبتدإ مرفوع ، وعلامة رفعه الضمة.</p><p class=rfdFootnote0><span>(١) التسهيل ٥٦ /المقرب ١ ـ ١٠٢ / المساعد ١ ـ ٢٧٨.</span></p><p class=rfdFootnote0><span>(٢) المساعد ١ ـ ٢٧٨/ الجامع الصغير ٥٧ / شرح التصريح ١ ـ ١٩٨ / منهج السالك ١ ـ ١٤١. ويروى :بأهبةحرب كن ..</span>.</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1635;</div>
+						</div>
+												<div class="page  " id="pg404">
+							<div class="pgcontent">
+    <p>والأصل : فمامن توالى مواليا كلّ حين ، حيث (من) اسم موصول فى محلّ رفع اسم (ما) الحجازية ،وخبرها (مواليا) ، وهو منصوب مبنى وعلامة نصبه الفتحة. و (كل) منصوب على الظرفيةمعمول لاسم الفاعل (مواليا). وتلحظ أن معمول خبر (ما) وهو شبه الجملة (كل) قد تقدم، ولم ينتقض عملها لكونه شبه جملة.</p><p class=rfdBold1>ج ـ ألا يقترن اسمها بـ (إن) الزائدة :</p><p>يجب ألا يقترناسم (ما) بـ (إن) الزائدة كى تعمل عمل (ليس).</p><p>ولذلك لم تعملفى قول الشاعر :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>بنى غدانة ماإن أنتم ذهب <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>ولا صريفولكن أنتم الخزف <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>حيث ظهر بعد (ما)المرفوعان (أنتم ذهب) ، وذلك لإهمالها لذكر (إن) الزائدة بعدها.</p><p>وروى بنصب (ذهبوصريف) ، وهى رواية يعقوب بن السكيت فتكون (ما) حجازية عاملة عمل (ليس) ، مع وجود (إن)بعدها ، ولكن الجمهور يخرّج ذلك على أنّ (إن) زائدة نافية ، فهى مؤكدة لنفى (ما).</p><p>ومنه قول فروةبن مسيك الصحابى :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>فما إن طبّناجبن ولكن <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>منايانا ودولةآخرينا <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) الجامع الصغير ٥٧/ شرح الشذور ٩٠ / أوضح المسالك رقم ١٠١ / الدرر ٢ ـ ١٠٢ / صريف : فضة.</span></p><p class=rfdFootnote>(بنى) منادى منصوب ، وعلامة نصبه الياءلأنه مضاف ، و (غدانة) مضاف إليه مجرور ، وعلامة جره الفتحة نيابة عن الكسرة ؛لأنه ممنوع من الصرف. (ما) حرف نفى مبنى لا محل له من الإعراب. (إن) حرف زائد مبنىلا محل له من الإعراب. (أنتم) ضمير مبنى فى محل رفع ، مبتدأ. (ذهب) خبر المبتدإ ،مرفوع وعلامة رفعه الضمة. (ولا) الواو : حرف عطف مبنى لا محل له من الإعراب. (صريف)معطوف على ذهب مرفوع ، وعلامة رفعه الضمة. (ولكن) الواو : حرف عطف مبنى. لكن : حرفاستدراك مبنى لا محل له من الإعراب. (أنتم) ضمير مبنى فى محل رفع ، مبتدأ. (الخزف)خبر المبتدإ مرفوع ، وعلامة رفعه الضمة.</p><p class=rfdFootnote0><span>(٢) الكتاب ٣ ـ ١٥٣ /المقتضب ١ ـ ٥١ / الخصائص ٣ ـ ١٠٨ / المحتسب ١ ـ ٩٢ / شرح المفصل ٨ ـ ١٢٩ / رصفالمبانى ١١٠ / الجنى الدانى ٣٢٧ / شفاء العليل ١ ـ ٣٢٩ / الدرر ٢ ـ ١١٠. الطب هناالسبب والعلة.</span></p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1636;</div>
+						</div>
+												<div class="page  " id="pg405">
+							<div class="pgcontent">
+    <p>وفيه بطل عمل (ما)الحجازية ؛ لأنه قد زيد بعدها (إن) ، فـ (طب) مبتدأ مرفوع ، و (جبن) خبر المبتدإمرفوع ، وعلامة رفعه الضمة.</p><p>فكلّ من (ما) و(إن) يكفّ صاحبه عن العمل.</p><p class=rfdBold1>د ـ ألا ينتقض نفى خبرها :</p><p>خبر (ما) يكونبمدلولها منفيا عن المبتدإ ، فإذا قلت : ما محمد مهملا ، فإن (ما) تنفى الإهمال عنمحمد. فإذا انتقض نفى الخبر بناف آخر فإنها تهمل ، إذ إن المقصود من إلحاقهابالجملة الاسمية هو النفى ، ودخول النفى على خبرها يفيد الإثبات ؛ وحرف الاستثناءنفى ، فإذا دخل على خبر (ما) أهملت <span class=rfdFootnotenum>(١)</span>. خلافا ليونس <span class=rfdFootnotenum>(٢)</span>. ولهذا وجب الرفع فى : قوله تعالى : <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَمْرُنا إِلَّا واحِدَةٌ كَلَمْحٍبِالْبَصَرِ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(٣)</span> [القمر : ٥٠]. (أمر) مبتدأ مرفوع وعلامة رفعه الضمة. وخبره (واحدة) مرفوع. (ما)حرف نفى مبنى ، (إلا) حرف استثناء للقصر والحصر مبنى لا محلّ له من الإعراب.</p><p>وكذلك قولهتعالى : <span class=rfdAlaem>(</span><span class=rfdAie>وَما مُحَمَّدٌإِلَّا رَسُولٌ</span><span class=rfdAlaem>)</span> [آل عمران : ١٤٤]. حيث انتقض النفى بـ (ما) بحرف الاستثناء (إلا) ، فتحولمجمل معنى الجملة إلى القصر والحصر. فمحمد مبتدأ مرفوع ، خبره (رسول).</p><p>وقوله تعالى : <span class=rfdAlaem>(</span><span class=rfdAie>ما أَنْتَ إِلَّا بَشَرٌ مِثْلُنا</span><span class=rfdAlaem>)</span> [الشعراء : ١٥٤].</p><p>أما قول الشاعر: </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>وما الدهرإلا منجنونا بأهله <span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>وما صاحبالحاجات إلا معذّبا <span class=rfdFootnotenum>(٤)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>فهو على غير مازعم يونس من إعمال (ما) عمل (ليس) مع انتقاض نفى خبرها بـ (إلّا) ؛ لأنه يجعل كلامن (منجنونا) و (معذبا) خبرا لـ (ما). لكن جمهور البصريين يؤوّلون ذلك على وجهين :</p><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) ينظر : المقتضب ٤ـ ١٨٨ / التسهيل ٥٦.</span></p><p class=rfdFootnote0>(٢) ينظر : التسهيل٥٧.</p><p class=rfdFootnote0>(٣) شبه جملة (كلمح)فى محل رفع نعت لواحدة. (بالبصر) شبه جملة متعلقة باللمح.</p><p class=rfdFootnote0><span>(٤) المغنى ١ ـ ٧٦ /المقرب ١ ـ ١٠٣ / شرح المفصل ٨ ـ ٧٥. المنجنون : الدولاب التى يستقى بها الماء.</span></p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1637;</div>
+						</div>
+												<div class="page  " id="pg406">
+							<div class="pgcontent">
+    <p>أحدهما : أنيكون كلّ من المنصوبين منصوبا على المصدرية ، حيث التقدير : يدور دوران منجنون ،فيكون (منجنونا) منصوبا على النيابة عن المفعول المطلق ، أما (معذبا) فإنه ليس اسممفعول ، وإنما هو مصدر ميمىّ ، ويكون التقدير : إلا يعذب تعذيبا.</p><p>والآخر : أنيكون كلّ منهما منصوبا على المفعولية ، والتقدير فى الموضعين : إلا يشبه منجنونا ،وإلا يشبه معذبا.</p><p>ومن النحاة منيخرج النصب فى الموضعين على الحالية ، والتقدير : وما الدهر موجودا إلا مثل منجنون، وما صاحب الحاجات موجودا إلا معذبا.</p><p>ومثله قولالشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>وما حقّ الذىيعثو نهارا<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>ويسرق ليلهإلا نكالا <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>حيث يؤول (نكالا)على أنه اسم مصدر ، فنصبه على المصدرية ، أى : على النيابة عن المفعول المطلق.والتقدير : إلا ينكل به نكالا ، أى : تنكيلا.</p><p class=rfdBold1>ه ـ ألا يبدل من خبرها بموجب :</p><p>النفى بـ (ما)يتسلط على الخبر ، والبدل فى نية تكرير العامل ، فإذا أبدل من خبر (ما) الحجازيةالعاملة بموجب فإن عملها يبطل ، لأنه ليس من المعقول أن نجعلها عاملة فى المبدلمنه ، وغير عاملة فى البدل ؛ لذا وجب إهمالها إذا أبدل من خبرها بموجب ، وذلك فىقولهم : ما زيد بشىء إلّا شىء لا يعبأ به <span class=rfdFootnotenum>(٢)</span>. كأنك قلت : ما زيد إلا شىء لا يعبأ به قصور <span class=rfdFootnotenum>(٣)</span></p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) (ما) حرف نفىمبنى لا محل له من الإعراب. (حق) مبتدأ مرفوع وعلامة رفعه الضمة. وهو مضاف و (الذى)اسم موصول مبنى فى محل جر بالإضافة. (يعثو) فعل مضارع مرفوع ، وعلامة رفعه الضمةالمقدرة منع من ظهورها الثقل. والفاعل ضمير مستتر تقديره : هو. والجملة الفعليةصلة الموصول لا محل لها من الإعراب.</p><p class=rfdFootnote>(نهارا) ظرف زمان منصوب وعلامة نصبهالفتحة. (ويسرق) الواو حرف عطف مبنى لا محل له من الإعراب يسرق : فعل مضارع مرفوع، وعلامة رفعه الضمة ، وفاعله ضمير مستتر تقديره : هو ، والجملة الفعلية لا محللها من الإعراب. بالعطف على جملة (يعثو). (ليله) ظرف زمان منصوب ، وعلامة نصبهالفتحة ، وضمير الغائب مبنى فى محل جر بالإضافة. (إلا) حرف استثناء يفيد الحصروالقصر مبنى لا محل له من الإعراب. (نكالا) مفعول مطلق لفعل محذوف منصوب ، وعلامةنصبه الفتحة.</p><p class=rfdFootnote0>(٢) ينظر : الكتاب ٢ـ ٣١٦.</p><p class=rfdFootnote0>(٣) من ذلك أن تقول :لست بشىء إلا شيئا لا يعبأ به ، كأنك قلت : لست إلا شيئا لا يعبأ به. وما أتانىأحد إلا فلان ، أى : ما أتانى إلا فلان. وهو من قبيل البدل على الموضع.</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1638;</div>
+						</div>
+												<div class="page  " id="pg407">
+							<div class="pgcontent">
+    <p class=rfdNormal0>وتستطيع أن تقرن بين هذا الشرط والشرط السابق وهو عدم انتقاض نفى الخبر ،إلا أن هذا فى البدل من الخبر ، وذاك فى الخبر الأصلى والمعطوف عليه.</p><p class=rfdBold1>و ـ ألا تتكرر (ما) الحجازية النافية :</p><p>يكون تكريرالكلمة فى التركيب لأحد وجهين :</p><p>ـ إما للتوكيد، ويكون توكيدا لفظيا ، فلا يتغير المعنى عما كان عليه أولا.</p><p>ـ وإما للأداءالمعنوى المحض.</p><p>ويظهر الثانىفيما إذا كانت الكلمة مؤدية معنى النفى ، حيث تكون الأولى نفيا ، والثانية نفيا ،فيخلص المعنى إلى الإثبات ؛ لأن نفى النفى إثبات.</p><p>كذلكم (ما)الحجازية إذا تكررت فإنها تكرر لأداء أحد الوجهين السابقين ، ذلك على النحو الآتى:</p><p>ـ إذا تكررت (ما)الحجازية العاملة لغرض التوكيد اللفظى فإنها تظلّ عاملة ؛ لأن معنى النفى يظلّثابتا فى جملتها ، ومنه قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>لا ينسكالأسى تأسّيا فما<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>ما من حمامأحد معتصما <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>حيث (ما) الثانيةمؤكدة للأولى ، و (أحد) اسم (ما) النافية مرفوع ، و (معتصما) خبرها منصوب ، وشبهالجملة (من حمام) متعلقة بالاعتصام.</p><p>ـ أما إذاتكررت لغرض النفى فى الأولى والثانية فإنها تهمل ؛ لأن معنى النفى ينتقض بالثانية، فإذا قلت : ما ما أنا مجدّ ، برفع الخبر كانت (ما) مهملة ، لأن</p><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) العينى ٤ ـ ١١٠ /الأشمونى ٣ ـ ٨٣ / الدرر ٢ ـ ١٠٣.</span></p><p class=rfdFootnote>(لا) حرف نهى مبنى لا محل له من الإعراب.(ينسك) فعل مضارع مجزوم ، وعلامة جزمه حذف حرف العلة. وضمير المخاطب مبنى فى محلنصب ، مفعول به (الأسى) فاعل مرفوع ، وعلامة رفعه الضمة المقدرة ، منع من ظهورهاالتعذر. (تأسيا) مفعول لأجله منصوب ، وعلامة نصبه الفتحة. (فما) الفاء سببية حرفمبنى لا محل له من الإعراب. ما : حرف نفى مبنى ، لا محل له من الإعراب. (ما) حرفنفى مبنى مؤكد للأول ، لا محل له من الإعراب. (من حمام) جار ومجرور ، وشبه الجملةمتعلقة بالاعتصام. (أحد) اسم ما النافية مرفوع ، وعلامة رفعه الضمة. (معتصما) خبرما الحجازية منصوب ، وعلامة نصبه الفتحة.</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1639;</div>
+						</div>
+												<div class="page  " id="pg408">
+							<div class="pgcontent">
+    <p class=rfdNormal0>(ما) الثانية كانت للنفى ، فكأنك نفيت (ما) الأولى ، ولذلك فإن معنى الجملةينتهى إلى الإثبات ، فأنت تؤكد جدّك.</p><p>أما إذا قلت :ما ما أنا مهملا ، بنصب الخبر ، كانت (ما) عاملة ؛ لأن (ما) الثانية كانت للتوكيد، فالنفى باق فى الجملة مؤكدا ، فأنت تؤكد عدم إهمالك.</p><p class=rfdBold1>زيادة الباء فى خبر (ما)</p><p>يزاد حرف الجر (الباء)بكثرة فى خبر (ما) النافية العاملة عمل (ليس). ومن ذلك قوله تعالى : <span class=rfdAlaem>(</span><span class=rfdAie>وَمَا اللهُ بِغافِلٍ عَمَّاتَعْمَلُونَ</span><span class=rfdAlaem>)</span> [البقرة : ٨٥ ، ١٤٠ ، ١٤٩ ...] حيث خبر (ما) النافية (بغافل) فيه الباء حرفجر زائد ، وغافل خبر ما منصوب ، وعلامة نصبه الفتحة المقدرة ، منع من ظهورهااشتغال المحلّ بحركة حرف الجرّ الزائد.</p><p>ومنه : <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنْتَ بِتابِعٍ قِبْلَتَهُمْ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(١)</span> [البقرة : ١٤٥].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما بَعْضُهُمْ بِتابِعٍ قِبْلَةَبَعْضٍ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(٢)</span> [البقرة : ١٤٥].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنَا عَلَيْكُمْ بِحَفِيظٍ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(٣)</span> [الأنعام : ١٠٤].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنْتَ عَلَيْهِمْ بِوَكِيلٍ</span><span class=rfdAlaem>)</span> [الأنعام : ١٠٧].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما قَوْمُ لُوطٍ مِنْكُمْ بِبَعِيدٍ</span><span class=rfdAlaem>)</span> [هود : ٨٩].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنْتَ عَلَيْنا بِعَزِيزٍ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(٤)</span> [هود : ٩١].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنَا بِطارِدِ الْمُؤْمِنِينَ</span><span class=rfdAlaem>)</span> [الشعراء : ١١٤].</p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) (تابع) خبر ماالنافية منصوب ، وعلامة نصبه الفتحة المقدرة ، منع من ظهورها اشتغال المحل بحركةحرف الجر الزائد. وفيه فاعل ضمير مستتر. (قبلتهم) مفعول به منصوب ، وعلامة نصبهالفتحة ، وقبلة مضاف وضمير الغائبين مبنى فى محل جر بالإضافة.</p><p class=rfdFootnote0>(٢) (قبلة) مفعول بهلتابع منصوب ، وعلامة نصبه الفتحة ، وهو مضاف ، وبعض مضاف إليه مجرور ، وعلامة جرهالكسرة.</p><p class=rfdFootnote0>(٣) شبه جملة (عليكم)متعلقة بحفيظ.</p><p class=rfdFootnote0>(٤) شبه جملة (علينا)متعلقة بعزيز.</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1640;</div>
+						</div>
+												<div class="page  " id="pg409">
+							<div class="pgcontent">
+    <p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>وَما أَنْتَ بِهادِي الْعُمْيِ عَنْضَلالَتِهِمْ</span><span class=rfdAlaem>)</span> [النمل : ٨١].</p><p>ـ <span class=rfdAlaem>(</span><span class=rfdAie>ما أَنْتُمْ عَلَيْهِ بِفاتِنِينَ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(١)</span> [الصافات : ١٦٢].</p><p>ويختلف النحاةفيما بينهم فى دخول (الباء) على خبر (ما) بين أن تكون حجازية أو تميمية :</p><p>ـ فمنهم من يرىأنه لا فرق فى دخول الباء فى خبر (ما) بين كونها حجازية أو تميمية.</p><p>ـ ومنهم منيقصر ذلك على الحجازية.</p><p>ويمال إلى أنهيدخل فى خبر كلّ منهما ، لكنه يكثر فى الحجازية كما يكثر فى خبر (ليس).</p><p>وقد ذكر فى قولالفرزدق : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>لعمرك ما معنبتارك حقّه <span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>ولا منسئ معنولا متيسّر <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>ويعلل النحاةلزيادة الباء فى خبر (ما) النافية فى ثلاثة آراء :</p><p>أولها : أنالخبر لمّا تباعد من النفى ربطوا بينهما بالباء.</p><p>وثانيها : أنالكلام قد يطول وينسى أوله ، فجاؤوا بالباء ليشعروا بأن فى صدر الجملة أو الكلامنفيا.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) شبه جملة (عليه)متعلقة بفاتنين.</p><p class=rfdFootnote0><span>(٢) الكتاب ١ ـ ٦٣ /التبصرة والتذكرة ١ ـ ١٩٩ / الاقتضاب ٣٦٨ / شفاء العليل ١ ـ ٣٣٦.</span></p><p class=rfdFootnote>(لعمرك) اللام للابتداء أو القسم حرفمبنى ، لا محل له من الإعراب. عمر : مبتدأ مرفوع وعلامة رفعه الضمة ، وضميرالمخاطب مبنى فى محل جر بالإضافة. وعمر مضاف وضمير المخاطب مبنى فى محل جربالإضافة. وخبر عمر محذوف تقديره : قسمى. (ما) حرف نفى مبنى لا محل له من الإعراب.</p><p class=rfdFootnote>(معن) مبتدأ مرفوع ، وعلامة رفعه الضمة.(بتارك) الباء حرف جر زائد مبنى ، لا محل له من الإعراب.</p><p class=rfdFootnote>تارك : خبر المبتدإ مرفوع ، وعلامة رفعهالضمة المقدرة منع من ظهورها اشتغال المحل بحركة حرف الجر الزائد. وهو مضاف ، و (حق)مضاف إليه مجرور وعلامة جره الكسرة. وهو مضاف وضمير الغائب مبنى فى محل جربالإضافة إليه. (ولا) الواو : حرف عطف مبنى. لا : حرف زائد لتأكيد النفى مبنى.</p><p class=rfdFootnote0>(منسئ) مبتدأ ، أو خبر مقدم مرفوع ، وعلامة رفعه الضمة. (معن) فاعل سد مسدالخبر أو المبتدإ مرفوع ، وعلامة رفعه الضمة. (ولا) حرف عطف وحرف زائد لتأكيدالنفى مبنيان. (متيسر) معطوف على منسئ مرفوع ، وعلامة رفعه الضمة.</p>
+</div>
+<div class="pgnum">&#1636;&#1632;&#1641;</div>
+						</div>
+												<div class="page  " id="pg410">
+							<div class="pgcontent">
+    <p>والثالث : أنالباء للتأكيد ؛ لأن الكلام بالباء جواب من قال : إن زيدا لقائم ، فيردّ عليه : مازيد بقائم ، فتجعل الباء بإزاء اللام ، و (ما) بإزاء (إن) ، فإن قيل : إنّ زيداقائم ، كان الرد : ما زيد قائما.</p><p class=rfdBold1>حكم المعطوف على خبر (ما) العاملة :</p><p class=rfdBold1>يأتى المعطوف على خبر (ما) العاملة عمل (ليس) فى صورتين :</p><p>أولاهما : أنيعطف على الخبر المجرد من حرف الجرّ الزائد مع مراعاة نوع حرف العطف وأدائهالمعنوى ، من نقض لنفى (ما) عما بعده ، أو تجاوز للنفى بـ (ما) إلى ما بعده.</p><p>والأخرى : أنيعطف على الخبر المقرون بحرف الجرّ الزائد (الباء).</p><p class=rfdBold1>أولا : المعطوف على خبر (ما) المجرد :</p><p>إذا عطف علىخبر (ما) الحجازية العاملة فإن نصبه من عدمه ينبنى على مدلوله من حيث النفىوالإثبات ، لأن الفكرة الأساسية أن يكون الخبر أو توابعه فيه مدلول النفى عن الاسمأو المبتدإ.</p><p>وهذه الفكرةتتضح إذا قارنا بين العطف بالواو والعطف بـ (بل) و (لكن) ، كما هو فى قولنا : ماأنا مهملا ولا كسولا.</p><p>حيث العطفبالواو على خبر (ما) المنصوب (مهملا) ، فأصبح المعطوف مشتركا مع المعطوف عليهالخبر فى النفى ؛ فلم يتغير التابع عن معنى النفى ، ولذلك فهو منصوب بالعطف علىخبر (ما). حيث نفيت الإهمال والكسل عنى. ويكون حرف النفى (لا) زائدا لتأكيد النفى.</p><p>ويجوز فىالتابع بالواو أن يرفع على أنه يمثل جملة اسمية ، فتقول : ما أنا مهملا ولا كسول ،أى : ولا أنا كسول ، فيكون (كسول) خبرا لمبتدإ محذوف. لكن النصب أكثر.</p><p>أما إذا كانالعطف بـ (بل) أو (لكن) فإن ما بعدهما يكون مخالفا لما قبلهما ؛ لأن الأولىللإضراب ، والثانية للاستدراك ، وكلاهما مخالفة ، والمخالفة نفى ،</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1632;</div>
+						</div>
+												<div class="page  " id="pg411">
+							<div class="pgcontent">
+    <p class=rfdNormal0>ولذلك فإن ما بعدهما فى تركيب (ما) يكون موجبا ، لأنه مناقض لما قبلهالمنفى ، ونقض النفى إثبات ، ولذلك فإنه يرفع لا غير ، لأن (ما) لا تعمل فىالموجب.</p><p>فإذا قلت : ماأنا مهملا بل مجدّ ، فـ (مجد) يكون مرفوعا لا غير ، على أنه خبر لمبتدإ محذوف.والتقدير : بل أنا مجدّ ، وذلك لأنه إثبات ، فلا تؤثر فيه (ما).</p><p>وتقول : ما أنامهملا لكن مجدّ. والتقدير : لكن أنا مجدّ ، فيكون ما بعد (لكن) إثباتا ، ولذلكفإنه ليس فيه إلا الرفع.</p><p>وتقول : مامحمد قائما ولا قاعدا ، ولا قاعد.</p><p>ما محمد قائمابل قاعد. ما المواطن خائنا بل وفى.</p><p>ما محمد قائمالكن قاعد. ما المواطن خائنا لكن وفى.</p><p class=rfdBold1>ثانيا : المعطوف على خبر (ما) المزيد فيه الباء :</p><p>إذا قلت : مازيد بجبان ولا بخيل. كان لك فى (بخيل) ثلاثة أوجه :</p><p>ـ الجر : علىأنه معطوف على (جبان) لفظا.</p><p>ـ النصب : علىأنه معطوف على محل (جبان) ، وهو النصب ، لأنه خبر (ما) العاملة عمل (ليس).</p><p>ـ الرفع : علىأنه خبر لمبتدإ محذوف ، والتقدير : ولا هو بخيل.</p><p>ويجوز أن تجعل (ما)تميمية مهملة إعرابيا ، فيكون معطوفا على محل (جبان) ، وهو الرفع حينئذ.</p><p>فإن كان بعدحرف العطف صفة وموصوفها وأوليت الصفة الحرف وكان الموصوف مرتبطا باسمها ارتباطاسببيا ـ أى : يتضمن ضميرا رابطا يعود عليه ـ جاز الرفع والنصب والجرّ فى الصفةالمشتقة ؛ أما الموصوف فليس فيه إلا الرفع.</p><p>تقول : ما زيدقائما ولا قائما أبوه.</p><p>ما زيد قائماولا قائم أبوه.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1633;</div>
+						</div>
+												<div class="page  " id="pg412">
+							<div class="pgcontent">
+    <p>وتقول : ما زيدبقائم ولا قاعد أبوه.</p><p>يجوز فى (قاعد)الجرّ على اللفظ ، والنصب على المحلّ ، والرفع على الابتدائية.</p><p>فإن كان كذلكإلا أن الموصوف أجنبىّ عن اسمها ـ أى : لا يتضمن ضميرا يعود عليه ـ فإنه لا يجوزفى الصفة إلا الرفع ، وكذلك لا يجوز فى الموصوف إلا الرفع. فتقول : ما زيد قائماأو بقائم ولا قاعد عمرو. لا يجوز فى (قاعد) إلا الرفع على الابتدائية ، وتكونالواو عاطفة جملة على جملة.</p><p>إن تأخرت الصفةالمشتقة عن موصوفها جاز فيها الرفع والنصب دون الجرّ ، أما الموصوف فليس فيه إلاالرفع. فتقول : ما زيد بقائم أو قائما ، ولا أخوه قاعد أو قاعدا.</p><p class=rfdBold1>(لا)</p><p>تدخل (لا)النافية على الجملة الاسمية فيعملها أهل الحجاز إعمال (ليس) ، حيث يجعلون المبتدأبعدها مرفوعا ، ويكون اسمها ، أما الخبر فيكون منصوبا ، ولكن ذلك بشروط نذكرهالاحقا ، أما بنو تميم فإنهم يهملونها ، ويوجبون ـ حينئذ ـ تكريرها.</p><p class=rfdBold1>شروط إعمالها عند الحجازيين</p><p>تعمل (لا)النافية عند الحجازيين إعمال (ليس) بشروط (ما) المذكورة سابقا <span class=rfdFootnotenum>(١)</span> ، دون شرط انتفائها بـ (إن) النافية ؛ لأن (إن) لا تزادبعد (لا) فى التركيب. ونذكّر بهذه الشروط :</p><p>ـ ألا يتقدمخبرها على اسمها.</p><p>ـ ألا يتقدممعمول خبرها على اسمها إلا إذا كان شبه جملة.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) ينظر : الكتاب ١ـ ٥٨ / المقتضب ٤ ـ ٣٨٢ / التسهيل ٥٧ / الجامع الصغير ٥٨ / شرح التصريح ١ ـ ١٩٩.</span></p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1634;</div>
+						</div>
+												<div class="page  " id="pg413">
+							<div class="pgcontent">
+    <p>ـ ألا ينتقضنفى خبرها ، حتى يظلّ منفيا.</p><p>ـ ألا يبدل منخبرها بموجب ، حتى يظلّ معناها ، وهو النفى.</p><p>ـ ألا تتكرر ،إلا إذا كان تكريرها للتوكيد.</p><p>ويضاف إلى ذلك: أن يكون اسمها وخبرها نكرتين.</p><p>ويؤكد سيبويهعلى عدم الفصل بينها وبين اسمها <span class=rfdFootnotenum>(١)</span> ، إذ هى خاصة بالاسم ، ولا تكون خاصة حتى تكون للنفىالعام ، فتكون فى إجابة عن سؤال عام ، ولهذا يحرص كذلك على إعمالها فى النكرة <span class=rfdFootnotenum>(٢)</span> ، فإذا فصل بينها وبين اسمها وجب تكرارها.</p><p>فتقول : هل يوجدرجل هنا؟ السؤال عام ، حيث يسأل عن عام ، وهو أىّ رجل ، وتكون الإجابة عامة كذلك ،فتقول : لا رجل موجودا هنا. حيث تدخل (لا) العاملة عمل (ليس) على النكرة ، وهىمتضحة من النفى العام المذكور فى الإجابة بالنكرة عن سؤال عام.</p><p>كما تلحظ أنهلم يفصل بينها وبين اسمها بفاصل.</p><p>واجتمعت هذهالشروط فى قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>تعزّ فلا شىءعلى الأرض باقيا<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>ولا وزر مماقضى الله واقيا <span class=rfdFootnotenum>(٣)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>(شىء) اسم (لا) النافية العاملةعمل (ليس) مرفوع ، وعلامة رفعه الضمة.</p><p>(باقيا) خبرهامنصوب ، وعلامة نصبه الفتحة.</p><p>وكذلك قوله : (لاوزر واقيا) ، (وزر) اسم (لا) ، و (واقيا) خبرها.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) ينظر : الكتاب ٢ـ ٢٩٨ / المقتضب ٤ ـ ٣٨٢ / المقرب ١ ـ ١٠٤.</span></p><p class=rfdFootnote0><span>(٢) المقتضب ٤ ـ ٣٨٢/ المقرب ١ ـ ١٠٤.</span></p><p class=rfdFootnote0><span>(٣) ينسب إلى النابغةالجعدى. تعزّ : تصبر وتجلّد ، وزر : جبل منيع ، الجامع الصغير ٥٨ / شرح الشذور رقم٩٢ / أوضح المسالك رقم ١٠٨ / القطر رقم ٥١ / الأشمونى ١ ـ ٢٥٣ / ابن عقيل ١ ـ ٣١٣.</span></p><p class=rfdFootnote>(تعز) فعل أمر مبنى على حذف حرف العلة ،وفاعله ضمير مستتر تقديره : أنت. (على الأرض) شبه جملة متعلقة بالبقاء. (مما) شبهجملة متعلقة بالوقاية. (قضى الله) جملة فعلية صلة الموصول ، لا محل لها من الإعراب.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1635;</div>
+						</div>
+												<div class="page  " id="pg414">
+							<div class="pgcontent">
+    <p>وقول الآخر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>نصرتك إذ لاصاحب غير خاذل <span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>فبوّئت حصنابالكماة حصينا <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>وفيه قوله : لاصاحب غير خاذل ، حيث عملت (لا) النافية عمل (ليس) ، فاسمها المرفوع (صاحب) ،وخبرها المنصوب (غير) ، وكلّ منهما نكرة.</p><p>قد يحذف خبرها، كما هو فى قول سعيد بن مالك جدّ طرفة :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>من صدّ عننيرانها<span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>فأنا ابن قيسلا براح <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>أى : لا براحلى ، حيث (براح) اسم (لا) العاملة عمل (ليس) مرفوع ، وعلامة رفعه الضمة ، أماخبرها فهو محذوف ، تقديره : لى.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) شرح ابن عقيل ١ ـ٣١٤.</p><p class=rfdFootnote>(نصرتك) نصر : فعل ماض مبنى على السكون، وضمير المتكلم مبنى فى محل رفع ، فاعل ، وضمير المخاطب مبنى فى محل نصب ، مفعولبه. (إذ) ظرف زمان مبنى على السكون فى محل نصب متعلق بالنصر. (لا) حرف نفى مبنىعامل عمل ليس. (صاحب) اسم لا النافية مرفوع ، وعلامة رفعه الضمة.</p><p class=rfdFootnote>(غير) خبر لا النافية منصوب ، وعلامةنصبه الفتحة. وهو مضاف و (خاذل) مضاف إليه مجرور ، وعلامة جره الكسرة. (فبوئت)الفاء : حرف عطف تعقيبى مبنى ، لا محل له من الإعراب. بوئ : فعل ماض مبنى علىالسكون مبنى للمجهول. وضمير المخاطب مبنى فى محل رفع ، نائب فاعل. (حصنا) مفعول بهثان لبوئ منصوب ، وعلامة نصبه الفتحة. (بالكماة) جار ومجرور بالكسرة ، وشبه الجملةمتعلقة بحصين. (حصينا) نعت لحصن منصوب ، وعلامة نصبه الفتحة.</p><p class=rfdFootnote0><span>(٢) الكتاب ١ ـ ٥٨ /المقتضب ٤ ـ ٣٦٠.</span></p><p class=rfdFootnote>أى : إن أعرض بنو حنيفة عن الحرب فأناابن قيس لا براح لى عن موقفى فيها.</p><p class=rfdFootnote>(من) اسم شرط جازم مبنى على السكون فىمحل ، رفع مبتدأ. (صد) فعل الشرط ماض مبنى على الفتح ، وفاعله ضمير مستتر تقديره :هو. (عن نيرانها) جار ومجرور بالكسرة ، ومضاف إليه مبنى ، وشبه الجملة متعلقةبالصد. (فأنا) الفاء : حرف رابط الشرط بجوابه مبنى ، لا محل له من الإعراب. أنا :ضميرمبنى فى محل رفع ، مبتدأ. (ابن) خبر المبتدإ مرفوع ، وعلامة رفعه الضمة ، والجملةالاسمية فى محل جزم جواب الشرط. (قيس) مضاف إليه مجرور ، وعلامة جره الكسرة. (لا)حرف نفى عامل عمل ليس مبنى لا محل له من الإعراب. (براح) اسم لا مرفوع ، وعلامةرفعه الضمة. وخبر (لا) محذوف تقديره : لى ، وجملة (لا براح لى) مستأنفة لا محل لهامن الإعراب ، ويجوز أن تكون فى محل نصب ، حال مؤكدة ، والتقدير : أنا ابن قيسثابتا فى الحرب.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1636;</div>
+						</div>
+												<div class="page  " id="pg415">
+							<div class="pgcontent">
+    <p>قد تعمل (لا)العاملة عمل (ليس) فى الاسم المعرفة ، كما ذكر قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>أنكرتها بعدأعوام مضين لها<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>لا الداردارا ولا الجيران جيرانا <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>حيث (لا) نافيةعاملة عمل (ليس) ، اسمها (الدار) وهو معرفة مرفوعة بالضمة ، وخبرها (دارا) منصوب ،وعلامة نصبه الفتحة. وتلحظ أن (لا) قد دخلت على الاسم المعرفة.</p><p>ومثل ذلك فىقوله : (ولا الجيران جيرانا).</p><p>ومن دخول (لا)النافية على الاسم المعرفة قول المتنبى :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>إذا الجود لميرزق خلاصا من الأذى <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>فلا الحمدمكسوبا ولا المال باقيا <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>ويتضح ذلك فىقوله : لا الحمد مكسوبا ولا المال باقيا ، حيث اسم (لا) فى الموضعين المعرفتان :الحمد ، المال ، أما خبرهما فهما المنصوبان : مكسوبا ، وباقيا.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) شرح الشذور رقم٩٣ / شرح التصريح ١ ـ ١٩٩.</span></p><p class=rfdFootnote>(أنكرتها) فعل ماض مبنى على السكون ،وضمير المتكلم مبنى فاعل فى محل رفع ، وضمير الغائبة مبنى فى محل نصب ، مفعول به. (بعد)ظرف زمان منصوب ، وعلامة نصبه الفتحة متعلق بالإنكار. (أعوام) مضاف إلى بعد مجرور، وعلامة جره الكسرة. (مضين) فعل ماض مبنى على السكون ، ونون النسوة ضمير مبنى فىمحل رفع ، فاعل ، والجملة الفعلية فى محل جر ، نعت لأعوام. (لها) جار ومجرورمبنيان ، وشبه الجملة متعلقة بالمضى.</p><p class=rfdFootnote0><span>(٢) شرح الشذور رقم٩٤ / القطر رقم ١٩٤ / شرح التصريح ١ ـ ١٩٩.</span></p><p class=rfdFootnote>(إذا) اسم شرط غير جازم مبنى على السكونفى محل نصب على الظرفية مضاف إلى شرطه معمول لجوابه. (الجود) نائب فاعل مرفوع ،وعلامة رفعه الضمة لفعل محذوف يفسره المذكور ـ على رأى النحاة ـ وهو فعل الشرط. (لم)حرف نفى وجزم وقلب مبنى على السكون ، لا محل له من الإعراب. (يرزق) فعل مضارعمجزوم ، وعلامة جزمه السكون مبنى للمجهول ، ونائب الفاعل ضمير مستتر تقديره : هو.</p><p class=rfdFootnote>والجملة مفسرة لما قبلها ، لا محل لهامن الإعراب. (خلاصا) مفعول به ثان منصوب ، وعلامة نصبه الفتحة. (من الأذى) جارومجرور بالفتحة المقدرة. وشبه الجملة متعلقة بالخلاص. (فلا) الفاء حرف واقع فىجواب الشرط مؤكد رابط مبنى لا محل له من الإعراب ، وجملة (لا الحمد مكسوبا) جوابالشرط لا محل لها من الإعراب. (ولا المال باقيا) حرف عطف ، والجملة لا محل لها منالإعراب معطوفة على جملة جواب الشرط.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1637;</div>
+						</div>
+												<div class="page  " id="pg416">
+							<div class="pgcontent">
+    <p>وقول النابغةالجعدى : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>وحلّت سوادالقلب لا أنا باغيا<span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>سواها ولا عنحبّها متراخيا <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>(لا أنا باغيا) فيه (لا) عاملة عمل(ليس) ، واسمها الضمير البارز المنفصل (أنا). وهو ضمير رفع معرفة.</p><p>والنحاةيختلفون فيما بينهم فى جواز دخول (لا) النافية العاملة عمل (ليس) على المعرفة ، فسيبويهيجعلها تعمل فى المعرفة الصريحة للضرورة <span class=rfdFootnotenum>(٢)</span>.</p><p>ومنهم من يمنعذلك ، ويجعل ما جاء منه شاذا أو مؤولا ، ولا يجوز الاستشهاد به ، وهو مذهب جمهورالنحاة.</p><p>ومنهم من أجازالقياس على ذلك ، ومع ذلك فإن القياس والأشهر عندهم أن يكون الاسم نكرة.</p><p>ومنهم من يحكمعليه بالقلة.</p><p class=rfdBold1>زيادة الباء فى خبر (لا)</p><p>يزاد حرف الجر (الباء)بقلة فى خبر (لا) النافية العاملة عمل (ليس) ، ومن ذلك قول سواد بن قارب الأزدى :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>وكن لى شفيعايوم لا ذو شفاعة<span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>بمغن فتيلاعن سواد بن قارب <span class=rfdFootnotenum>(٣)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) شرح التصريح ١ ـ ١٩٩.</p><p class=rfdFootnote>(حلت) فعل ماض مبنى على الفتح ، والتاءللتأنيث حرف مبنى لا محل له من الإعراب ، والفاعل ضمير مستتر تقديره : هى. (سواد)مفعول به منصوب ، وعلامة نصبه الفتحة. وهو مضاف ، و (القلب) مضاف إليه مجرور ،وعلامة جره الكسرة. (لا) حرف نفى يعمل عمل ليس مبنى ، لا محل له من الإعراب. (أنا)ضمير مبنى فى محل رفع ، اسم لا. (باغيا) خبر لا منصوب ، وعلامة نصبه الفتحة. (سواها)مفعول به منصوب ، وعلامة نصبه الفتحة المقدرة ، منع من ظهورها التعذر. وسوى مضاف ،وضمير الغائبة مبنى فى محل جر ، مضاف إليه. (ولا) الواو حرف عاطف جملة على جملةمبنى ، لا محل له من الإعراب. لا : حرف نفى عامل عمل ليس. واسمه ضمير مستتر تقديره: أنا. (عن حبها) حرف جر مبنى ، ومجرور بالكسرة ، وضمير الغائبة مبنى فى محل جربالإضافة. وشبه الجملة متعلقة بالتراخى. (متراخيا) خبر لا منصوب ، وعلامة نصبهالفتحة.</p><p class=rfdFootnote0>(٢) الكتاب ٢ ـ ٢٩٨.</p><p class=rfdFootnote0>(٣) أوضح المسالك ١ ـ٢٠٩ رقم ١١٢.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1638;</div>
+						</div>
+												<div class="page  " id="pg417">
+							<div class="pgcontent">
+    <p>وفيه قوله : (لاذو شفاعة بمغن) فيه (لا) النافية عاملة عمل (ليس) ، واسمها (ذو) وهو مرفوع وعلامةرفعه الواو ؛ لأنه من الأسماء الستة. وخبرها (بمغن) ، وهو منصوب مقدرا لسبقه بحرفالجر الزائد (الباء).</p><p class=rfdCenterBold1>(لات)</p><p>تعمل (لات) عمل(ليس) عند سيبويه وجمهور النحاة <span class=rfdFootnotenum>(١)</span>.</p><p>يقال : أصلها (لا)النافية ، زيدت عليها (التاء) ، إما للتأنيث ، وإما للمبالغة فى المعنى.</p><p>ويقال : إنهاليست ، فأبدلت السين تاء ، وقد أبدلت منها فى مواضع ، حيث قالوا : النات يريدون :الناس ، ومنه : ست وأصله سدس. وقالوا : أكيات ، يريدون أكياسا.</p><p class=rfdBold1>شروط إعمالها عمل (ليس)</p><p>تعمل (لات) عمل(ليس) ، أى : ترفع المبتدأ وتنصب الخبر فى اجتماع شرطين :</p><p>أولهما : أنيكون معمولاها اسمى زمان : كالحين ، والساعة ، والأوان ...</p><p>والآخر : ألايجتمع معمولاها.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(كن) فعل أمر ناقصناسخ مبنى على السكون. واسمه ضمير مستتر تقديره : أنت. (لى) جار ومجرور مبنيان ،وشبه الجملة متعلقة بشفيع. (شفيعا) خبر كان منصوب ، وعلامة نصبه الفتحة. (يوم) ظرفزمان منصوب ، وعلامة نصبه الفتحة ، وهو متعلق بالشفاعة. (لا) حرف نفى مبنى عاملعمل ليس.</p><p class=rfdFootnote>(ذو) اسم لا مرفوع ، وعلامة رفعه الواو.وهو مضاف ، و (شفاعة) مضاف إليه مجرور ، وعلامة جره الكسرة. (بمغن) الباء حرف جرزائد مبنى ، لا محل له من الإعراب. مغن : خبر لا النافية منصوب ، وعلامة نصبهالفتحة المقدرة ، منع من ظهورها حركة حرف الجر الزائد. وفاعله ضمير مستتر فيه. (فتيلا)مفعول به لمغن منصوب ، وعلامة نصبه الفتحة. (عن سواد) جار ومجرور ، وشبه الجملةمتعلقة بمغن.</p><p class=rfdFootnote>(ابن) نعت أو بدل أو عطف بيان لسوادمجرور ، وعلامة جره الكسرة ، وهو مضاف ، و (قارب) مضاف إليه مجرور ، وعلامة جرهالكسرة.</p><p class=rfdFootnote0><span>(١) ينظر : الكتاب ١ـ ٥٧ / التسهيل ٥٧ / المقرب ١ ـ ١٠٥ / الجامع الصغير ٥٨ / شرح التصريح ١ ـ ٢٠٠.</span></p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1639;</div>
+						</div>
+												<div class="page  " id="pg418">
+							<div class="pgcontent">
+    <p>والاسم هوالأكثر حذفا. ذلك كما هو فى قوله تعالى : <span class=rfdAlaem>(</span><span class=rfdAie>فَنادَوْا وَلاتَحِينَ مَناصٍ</span><span class=rfdAlaem>)</span><span class=rfdFootnotenum>(١)</span> [ص : ٣]. بنصب (حين) ، والتقدير : وليس الحين حين مناص.</p><p>فحذف اسم (لات)العاملة عمل (ليس) وهو مرفوع ، والمذكور (حين) خبرها منصوب.</p><p>وهذا وجه منأوجه نصب (حين) وفيه أوجه أخرى <span class=rfdFootnotenum>(٢)</span>. وكذلك فيها قراءات أخرى <span class=rfdFootnotenum>(٣)</span>.</p><p>كما تعمل فى (الساعة)كما هو فى قول الشاعر : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>ندم البغاةولات ساعة مندم <span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>والبغى مرتعمبتغيه وخيم <span class=rfdFootnotenum>(٤)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) (نادوا) فعل ماضمبنى على الضم المقدر ، وواو الجماعة ضمير مبنى فى محل رفع ، فاعل. جملة (ولات حينمناص) فى محل نصب ، حال من واو الجماعة.</p><p class=rfdFootnote0>(٢) يوجه نصب (حين)على ما يأتى :</p><p class=rfdFootnote>أ ـ أن يكون خبر (لات) العاملة عمل (ليس)، كما هو مذكور.</p><p class=rfdFootnote>ب ـ أن يكون اسم (لات) العاملة عمل (إن)، وخبرها محذوف ، والتقدير : ولات حين مناص لهم.</p><p class=rfdFootnote>ج ـ أنه معمول لفعل محذوف ، والتقدير :لات أرى حين مناص لهم ، بمعنى : لست أرى ذلك.</p><p class=rfdFootnote>د ـ أن (لات) هى : ليست.</p><p class=rfdFootnote0>(٣) فى (حين) ثلاثقراءات :</p><p class=rfdFootnote>الرفع : على الابتدائية ، أو على أنهااسم (لات) العاملة عمل ليس ، أو على أنها خبرها إن كانت عاملة عمل (إن).</p><p class=rfdFootnote>النصب : على أنها اسم (لات) العاملة عمل(إن) ، أو الخبرية لها إن كانت عاملة عمل (ليس). أو على المفعولية لفعل محذوفتقديره : أرى.</p><p class=rfdFootnote>الجر : على أن (لات) حرف جر لاسم الزمان: أو على إضمار (من) الجارة.</p><p class=rfdFootnote><span><span>ينظر : إملاء ما منّ به الرحمن ٢ ـ ٢٠٩/ البيان ٢ ـ ٣١٢.</span></span></p><p class=rfdFootnote0><span>(٤) شرح ابن عقيل ١ ـ٣٢٠ / شرح الشذور رقم ٩٥ / الأشمونى رقم ٢٢٨.</span></p><p class=rfdFootnote>(ندم) فعل ماض مبنى على الفتح. (البغاة)فاعل مرفوع ، وعلامة رفعه الضمة. (ولات) الواو : حرف ابتداء أو للحال مبنى لا محلله من الإعراب. لات : حرف نفى مبنى ، لا محل له عامل عمل ليس. واسمه محذوف تقديره: الساعة. (ساعة) خبر لات منصوب ، وعلامة نصبه الفتحة ، وجملة لات مع معموليها فىمحل نصب على الحالية. (والبغى) الواو : حرف استئناف مبنى لا محل له من الإعراب.البغى : مبتدأ مرفوع ، وعلامة رفعه الضمة. (مرتع) مبتدأ ثان مرفوع ، وعلامة رفعهالضمة. (مبتغيه) مضاف إليه مجرور ، وعلامة جره الكسرة المقدرة ، وضمير الغائب مبنىفى محل جر بالإضافة. (وخيم) خبر المبتدإ الثانى مرفوع ، وعلامة رفعه الضمة.والجملة الاسمية (مرتع وخيم) فى محل رفع ، خبر المبتدإ الأول.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1640;</div>
+						</div>
+												<div class="page  " id="pg419">
+							<div class="pgcontent">
+    <p>أى : وليستالساعة ساعة مندم. فتكون (ساعة) المذكورة خبر (لات) العاملة عمل (ليس) منصوبا ،وعلامة نصبه الفتحة ، واسمها محذوف.</p><p>وقول الآخر :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>ولتعرفنّخلائقا مشمولة<span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>ولتندمنّولات ساعة مندم <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>أى : ولاتالساعة ساعة مندم ، فحذف الاسم ، وأبقى الخبر منصوبا.</p><p>كما عملت (لات)في الأوان فى قول أبى زبيد الطائى :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>طلبوا صلحناولات أوان <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>فأجبنا أنليس حين بقاء <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>أى : ليسالأوان أوان صلح ، ويوجّه الكسر فى (أوان) على أحد الأوجه الآتية :</p><p>الأول : أنهعلى إضمار (من) الاستغراقية ، مع بقاء عملها ، والتقدير : ولات من أوان.</p><p>الثانى : أنالأصل : ولات الأوان أوان صلح ، فلما حذف المضاف إليه بنى المضاف لقطعه عن الإضافة، وكان بناؤه على الكسر لشبهه بـ (نزال) وزنا.</p><p class=rfdLine>__________________</p><p class=rfdFootnote0>(١) (لتعرفن) اللامموطئة للقسم حرف مبنى ، لا محل له من الإعراب. تعرف : فعل مضارع مبنى على الفتحلاتصاله بنون التوكيد المباشرة ، مرفوع محلا .. وفاعله مستتر تقديره : أنت. والنونللتوكيد حرف مبنى ، لا محل له من الإعراب. (خلائقا) مفعول به منصوب ، وعلامة نصبهالفتحة ، وأصله بفتحة واحدة دون تنوين لأنه ممنوع من الصرف ، ونون للضرورة. (مشمولة)نعت لخلائق منصوب ، وعلامة نصبه الفتحة. (لتندمن) كإعراب لتعرفن. (ولات ساعة مندم).جملة فى محل نصب ، حال.</p><p class=rfdFootnote0><span>(٢) شرح الشذور رقم٩٦ / شواهد الأشمونى ١ ـ ٢٥٦.</span></p><p class=rfdFootnote>(طلبوا) فعل ماض مبنى على الضم ، وواوالجماعة ضمير مبنى فى محل رفع ، فاعل. (صلحنا) مفعول به منصوب ، وعلامة نصبهالفتحة ، وضمير المتكلمين مبنى فى محل جر مضاف إليه. (ولات) الواو للحال حرف مبنى.لات : حرف ناف مبنى يعمل عمل ليس ، واسمه محذوف تقديره : الأوان. (أوان) خبر لاتمبنى على الكسر فى محل نصب ، ونون للضرورة. وجملة لات مع معموليها فى محل نصب ،حال. (فأجبنا) الفاء : حرف عاطف للتعقيب مبنى ، لا محل له من الإعراب. أجاب : فعلماض مبنى على السكون. وضمير المتكلمين مبنى فى محل رفع ، فاعل. (أن) حرف تفسيرىمبنى ، لا محل له من الإعراب. (ليس) فعل ماض ناقص ناسخ مبنى على الفتح. واسمهمحذوف. (حين) خبر ليس منصوب ، وهو مضاف. و (بقاء) مضاف إليه مجرور ، وعلامة جرهالكسرة.</p>
+</div>
+<div class="pgnum">&#1636;&#1633;&#1641;</div>
+						</div>
+												<div class="page  spe" id="pg420">
+							<div class="pgcontent">
+    <p>الثالث :الأرجح أن نجعل التنوين هنا تنوين العوض ، كما هو فى (إذ) من : حينئذ ، ويومئذ ...الخ ، وهى التى تضاف إلى الجملة فتنون عوضا من الجملة المحذوفة ، والتقدير : ولاتأوان صلح ، فلما حذف المضاف إليه عوّض عنه بالتنوين.</p><p>ولا تعمل (لات)فى غير الزمان ، أما قول شمردل الليثى : </p><table border=0 cellpadding=0 width="100%"><tr><td width="48%"><p class=rfdPoem>لهفى عليكللهفة من خائف <span class=rfdPoemTiniCharChar></span></p></td><td width="4%"><p class=rfdPoem> </p></td><td width="48%"><p class=rfdPoem>يبغى جواركحين لات مجير <span class=rfdFootnotenum>(١)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p>برفع (مجير)إما على الابتدائية ، والتقدير : حين لات له مجير ؛ وإما على الفاعلية ، والتقدير: حين لات يحصل مجير. وعليهما فإن (لات) يكون حرفا مهملا.</p><p>ومثله من إهمال(لات) قول الأعشى ميمون :</p><table border=0 cellpadding=0 width="99%"><tr><td width="47%"><p class=rfdPoem>لات هنّاذكرى جبيرة أومن <span class=rfdPoemTiniCharChar></span></p></td><td width="3%"><p class=rfdPoem> </p></td><td width="47%"><p class=rfdPoem>جاء منهابطائف الأهوال <span class=rfdFootnotenum>(٢)</span><span class=rfdPoemTiniCharChar></span></p></td></tr></table><p class=rfdLine>__________________</p><p class=rfdFootnote0><span>(١) شرح التصريح ١ ـ ٢٠٠/ الصبان على الأشمونى على الألفية ١ ـ ٢٥٦.</span></p><p class=rfdFootnote>(لهفى) مبتدأ مرفوع ، وعلامة رفعه الضمةالمقدرة وهو مضاف ، وضمير المتكلم مبنى فى محل جر بالإضافة. (عليك) جار ومجرورمبنيان ، وشبه الجملة متعلقة بخبر محذوف. (للهفة) جار ومجرور بالكسرة ، وشبهالجملة متعلقة باللهف. (من خائف) جار ومجرور ، وشبه الجملة فى محل جر نعت للهفة ،أو متعلقة بلهفة. (يبغى) فعل مضارع مرفوع ، وعلامة رفعه الضمة المقدرة ، وفاعلهضمير مستتر تقديره : هو ، والجملة الفعلية فى محل جر ، نعت لخائف. (جوارك) مفعولبه منصوب ، وعلامة نصبه الفتحة ، وكاف المخاطب مبنى فى محل جر بالإضافة. (حين) ظرفزمان منصوب ، وعلامة نصبه الفتحة. أو مبنى على الفتح متعلق بيبغى. (لات) حرف نفىمبنى. (مجير) فاعل لفعل محذوف والتقدير : حين لا يحصل مجير. والجملة الفعلية فى محلجر بالإضافة.</p><p class=rfdFootnote0><span>(٢) المقرب ١ ـ ١٠٥ /أوضح المسالك ١ ـ ٢٠٦ / شرح التصريح ١ ـ ٢٠٠. هنّا بالفتح والتشديد : ها هنا ،جبيرة : اسم امرأة.</span></p><p class=rfdFootnote>(لات) حرف نفى مبنى ، لا محل له منالإعراب. (هنا) ظرف زمان مبنى فى محل نصب متعلق بذكرى. (ذكرى) مبتدأ مرفوع ،وعلامة رفعه الضمة المقدرة ، منع من ظهورها التعذر ، وهو مضاف و (جبيرة) مضاف إليهمجرور ، وعلامة جره الفتحة نيابة عن الكسرة ؛ لأنه ممنوع من الصرف. وخبر المبتدإمحذوف تقديره : جائزة ، والتقدير : ذكرى جبيرة هنا جائزة. ومن الأفضل على إهمال (لات)أن نجعل (هنا) خبرا مقدما ، و (ذكرى) مبتدأ مؤخرا. (أو) حرف عطف مبنى ، لا محل لهمن الإعراب. (من) اسم موصول مبنى على السكون فى محل جر بالعطف على جبيرة. (جاء)فعل ماض مبنى على الفتح ،</p>
+</div>
+<div class="pgnum">&#1636;&#1634;&#1632;</div>
+						</div>
+											<!--end book pages-->
+					</div>
+				</div>
+			</div>
+			<div id="bottomwraper" class="icon">
+				<div style="background-color: rgb(0, 0, 0); height: 1px; overflow: hidden;"></div>
+				<a class="goto_page_down" style="float: left; margin-top: 1px; margin-left: 16px;">&#xF501;</a>
+				<a class="goto_page_down" style="float: right; margin-top: 1px; margin-right: 16px;">&#xF501;</a>
+			</div>
+		</div>	
+	</div>
+<script>
+var ic = 0;
+indexArray[ic++] = Array(0,5);
+indexArray[ic++] = Array(2,13);
+indexArray[ic++] = Array(3,16);
+indexArray[ic++] = Array(4,16);
+indexArray[ic++] = Array(5,17);
+indexArray[ic++] = Array(6,18);
+indexArray[ic++] = Array(8,21);
+indexArray[ic++] = Array(9,22);
+indexArray[ic++] = Array(10,22);
+indexArray[ic++] = Array(11,22);
+indexArray[ic++] = Array(12,24);
+indexArray[ic++] = Array(13,24);
+indexArray[ic++] = Array(14,24);
+indexArray[ic++] = Array(15,40);
+indexArray[ic++] = Array(16,43);
+indexArray[ic++] = Array(17,63);
+indexArray[ic++] = Array(18,64);
+indexArray[ic++] = Array(19,65);
+indexArray[ic++] = Array(20,68);
+indexArray[ic++] = Array(21,78);
+indexArray[ic++] = Array(22,80);
+indexArray[ic++] = Array(23,83);
+indexArray[ic++] = Array(24,83);
+indexArray[ic++] = Array(25,89);
+indexArray[ic++] = Array(26,92);
+indexArray[ic++] = Array(27,95);
+indexArray[ic++] = Array(28,99);
+indexArray[ic++] = Array(29,102);
+indexArray[ic++] = Array(30,106);
+indexArray[ic++] = Array(31,111);
+indexArray[ic++] = Array(32,114);
+indexArray[ic++] = Array(33,118);
+indexArray[ic++] = Array(34,131);
+indexArray[ic++] = Array(35,131);
+indexArray[ic++] = Array(36,135);
+indexArray[ic++] = Array(37,139);
+indexArray[ic++] = Array(38,144);
+indexArray[ic++] = Array(39,145);
+indexArray[ic++] = Array(40,153);
+indexArray[ic++] = Array(41,153);
+indexArray[ic++] = Array(42,154);
+indexArray[ic++] = Array(43,156);
+indexArray[ic++] = Array(44,158);
+indexArray[ic++] = Array(45,159);
+indexArray[ic++] = Array(46,161);
+indexArray[ic++] = Array(47,161);
+indexArray[ic++] = Array(48,164);
+indexArray[ic++] = Array(50,169);
+indexArray[ic++] = Array(51,169);
+indexArray[ic++] = Array(52,172);
+indexArray[ic++] = Array(53,172);
+indexArray[ic++] = Array(54,173);
+indexArray[ic++] = Array(55,174);
+indexArray[ic++] = Array(56,176);
+indexArray[ic++] = Array(57,176);
+indexArray[ic++] = Array(58,177);
+indexArray[ic++] = Array(59,178);
+indexArray[ic++] = Array(60,179);
+indexArray[ic++] = Array(61,181);
+indexArray[ic++] = Array(62,184);
+indexArray[ic++] = Array(63,185);
+indexArray[ic++] = Array(64,201);
+indexArray[ic++] = Array(65,212);
+indexArray[ic++] = Array(66,213);
+indexArray[ic++] = Array(67,222);
+indexArray[ic++] = Array(68,224);
+indexArray[ic++] = Array(69,227);
+indexArray[ic++] = Array(70,228);
+indexArray[ic++] = Array(71,228);
+indexArray[ic++] = Array(72,235);
+indexArray[ic++] = Array(73,240);
+indexArray[ic++] = Array(74,242);
+indexArray[ic++] = Array(75,244);
+indexArray[ic++] = Array(76,247);
+indexArray[ic++] = Array(77,249);
+indexArray[ic++] = Array(78,259);
+indexArray[ic++] = Array(79,262);
+indexArray[ic++] = Array(80,263);
+indexArray[ic++] = Array(82,270);
+indexArray[ic++] = Array(83,272);
+indexArray[ic++] = Array(84,272);
+indexArray[ic++] = Array(85,274);
+indexArray[ic++] = Array(86,276);
+indexArray[ic++] = Array(87,280);
+indexArray[ic++] = Array(88,281);
+indexArray[ic++] = Array(89,282);
+indexArray[ic++] = Array(90,288);
+indexArray[ic++] = Array(91,288);
+indexArray[ic++] = Array(92,289);
+indexArray[ic++] = Array(94,293);
+indexArray[ic++] = Array(95,295);
+indexArray[ic++] = Array(96,295);
+indexArray[ic++] = Array(97,299);
+indexArray[ic++] = Array(98,300);
+indexArray[ic++] = Array(99,301);
+indexArray[ic++] = Array(100,302);
+indexArray[ic++] = Array(101,303);
+indexArray[ic++] = Array(102,304);
+indexArray[ic++] = Array(103,305);
+indexArray[ic++] = Array(104,310);
+indexArray[ic++] = Array(105,311);
+indexArray[ic++] = Array(106,311);
+indexArray[ic++] = Array(107,312);
+indexArray[ic++] = Array(108,318);
+indexArray[ic++] = Array(109,320);
+indexArray[ic++] = Array(110,322);
+indexArray[ic++] = Array(111,326);
+indexArray[ic++] = Array(112,329);
+indexArray[ic++] = Array(113,340);
+indexArray[ic++] = Array(114,342);
+indexArray[ic++] = Array(115,344);
+indexArray[ic++] = Array(116,350);
+indexArray[ic++] = Array(117,352);
+indexArray[ic++] = Array(118,353);
+indexArray[ic++] = Array(119,355);
+indexArray[ic++] = Array(120,358);
+indexArray[ic++] = Array(121,361);
+indexArray[ic++] = Array(122,368);
+indexArray[ic++] = Array(123,376);
+indexArray[ic++] = Array(124,379);
+indexArray[ic++] = Array(125,380);
+indexArray[ic++] = Array(126,385);
+indexArray[ic++] = Array(127,385);
+indexArray[ic++] = Array(128,387);
+indexArray[ic++] = Array(129,392);
+indexArray[ic++] = Array(130,393);
+indexArray[ic++] = Array(131,394);
+indexArray[ic++] = Array(133,399);
+indexArray[ic++] = Array(134,399);
+indexArray[ic++] = Array(135,408);
+indexArray[ic++] = Array(136,410);
+indexArray[ic++] = Array(137,411);
+indexArray[ic++] = Array(138,412);
+indexArray[ic++] = Array(139,412);
+indexArray[ic++] = Array(140,416);
+indexArray[ic++] = Array(141,417);
+indexArray[ic++] = Array(142,417);
+indexArray[ic++] = Array(143,421);
+indexArray[ic++] = Array(145,424);
+indexArray[ic++] = Array(146,424);
+indexArray[ic++] = Array(147,425);
+indexArray[ic++] = Array(148,426);
+indexArray[ic++] = Array(149,428);
+indexArray[ic++] = Array(150,428);
+indexArray[ic++] = Array(151,444);
+indexArray[ic++] = Array(152,447);
+indexArray[ic++] = Array(153,448);
+indexArray[ic++] = Array(154,452);
+indexArray[ic++] = Array(155,452);
+indexArray[ic++] = Array(156,452);
+indexArray[ic++] = Array(157,453);
+indexArray[ic++] = Array(158,453);
+indexArray[ic++] = Array(159,453);
+indexArray[ic++] = Array(160,454);
+indexArray[ic++] = Array(161,454);
+indexArray[ic++] = Array(162,455);
+
+//setImages();
+
+var arbNum = ['٠', '١', '٢', '٣', '٤', '٥', '٦', '٧', '٨', '٩'];
+var arbNumG = /[٠١٢٣٤٥٦٧٨٩]/g;
+var margined = $(".marginedPage").length ? true : false;
+
+
+$(document).ready(function() {
+	$("#navigation #result").html($("#restips").html());
+});
+
+</script>
+<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/general.js"></script>
+<script language="javascript" type="text/javascript" src="https://books.rafed.net/templates/shahosein/js/jquery.booklib.js"></script>
+<script src="https://books.rafed.net/templates/shahosein/js/Modernizr.js"></script>
+<script src="https://books.rafed.net/templates/shahosein/js/touch.js"></script>
+
+</body>
+</html>
+<!--Page loaded in 0.302092 seconds-->
