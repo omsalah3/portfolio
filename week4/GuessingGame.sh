@@ -7,7 +7,7 @@ printError() {
 
 # This function will get a value between the 2nd and 3rd arguments 
 getNumber() { 
-   read -p "$1: " 
+   read -p "$1: "  
     while (( $REPLY < $2 || $REPLY > $3 )); do 
         printError "Input must be between $2 and $3" 
         read -p "$1: " 
