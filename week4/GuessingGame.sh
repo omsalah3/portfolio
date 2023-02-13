@@ -24,7 +24,7 @@ while true; do
   guess=$REPLY
 
   if [ $guess -eq $correct ]; then
-    echo "Correct!"
+    echo "Right!"
     break
   elif [ $guess -lt $correct ]; then
     echo "Too Low!"
